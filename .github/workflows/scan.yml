@@ -1,0 +1,61 @@
+
+name: DOD Contract Scan
+
+on:
+  schedule:
+    # 6 PM US Eastern, weekdays. GitHub Actions cron is UTC, so this is
+    # 22:00 UTC (EST, winter) — during EDT it'll actually run at 7 PM ET.
+    - cron: '0 22 * * 1-5'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write  # needed so the workflow can commit results back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Install Google Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install dependencies
+        run: |
+          uv sync --all-extras
+          uv run playwright install chromium
+
+      - name: Write .env
+        run: |
+          cat > .env <<EOF
+          LLM_PROVIDER=anthropic
+          LLM_API_KEY=${{ secrets.LLM_API_KEY }}
+          LLM_MODEL=claude-haiku-4-5-20251001
+          MAPBOX_TOKEN=${{ secrets.MAPBOX_TOKEN }}
+          DATABASE_PATH=./dod_scan.db
+          OUTPUT_DIR=./output
+          LOG_DIR=./logs
+          EOF
+
+      - name: Initialize database if missing
+        run: |
+          if [ ! -f dod_scan.db ]; then
+            uv run dod-scan init-db
+          fi
+
+      - name: Run pipeline
+        run: uv run dod-scan run-all
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dod_scan.db output/ logs/ || true
+          git diff --staged --quiet || git commit -m "Automated scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
