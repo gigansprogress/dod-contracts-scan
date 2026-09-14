@@ -24,7 +24,7 @@ jobs:
       - name: Install Google Chrome
         run: |
           sudo apt-get update
-          sudo apt-get install -y google-chrome-stable
+          sudo apt-get install -y google-chrome-stable xvfb
 
       - name: Install dependencies
         run: |
@@ -50,7 +50,7 @@ jobs:
           fi
 
       - name: Run pipeline
-        run: uv run dod-scan run-all
+        run: xvfb-run -a uv run dod-scan run-all
 
       - name: Commit and push results
         run: |
