@@ -1444,3 +1444,183 @@
 2026-09-30 01:13:51,130 dod_scan.export_kml INFO Exporting 170 contracts to KML
 2026-09-30 01:13:51,185 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
 2026-09-30 01:13:51,185 dod_scan.cli INFO Completed stage: export
+2026-10-01 01:08:44,913 dod_scan.cli INFO Starting stage: scrape
+2026-10-01 01:08:45,320 dod_scan.scraper INFO Fetching index page 1: https://www.war.gov/News/Contracts/
+2026-10-01 01:08:45,620 httpx INFO HTTP Request: GET https://www.war.gov/News/Contracts/ "HTTP/1.1 403 Forbidden"
+2026-10-01 01:08:45,620 dod_scan.scraper_fetch WARNING httpx got 403, falling back to Playwright for https://www.war.gov/News/Contracts/
+2026-10-01 01:08:57,624 dod_scan.scraper INFO Found 10 article links on page 1
+2026-10-01 01:08:57,700 httpx INFO HTTP Request: GET https://www.war.gov/News/Contracts/Contract/Article/4615442/contracts-for-sept-30-2026/ "HTTP/1.1 403 Forbidden"
+2026-10-01 01:08:57,700 dod_scan.scraper_fetch WARNING httpx got 403, falling back to Playwright for https://www.war.gov/News/Contracts/Contract/Article/4615442/contracts-for-sept-30-2026/
+2026-10-01 01:08:59,968 dod_scan.scraper INFO Stored article 4615442: Contracts for Sept. 30, 2026
+2026-10-01 01:08:59,968 dod_scan.scraper INFO Scrape complete: 1 new pages stored
+2026-10-01 01:08:59,968 dod_scan.cli INFO Completed stage: scrape
+2026-10-01 01:08:59,968 dod_scan.cli INFO Starting stage: parse
+2026-10-01 01:08:59,998 dod_scan.parser INFO Extracted 54 contracts from article 4615442
+2026-10-01 01:09:22,253 dod_scan.parser INFO Parse complete: 54 contracts extracted
+2026-10-01 01:09:22,254 dod_scan.cli INFO Completed stage: parse
+2026-10-01 01:09:22,254 dod_scan.cli INFO Starting stage: classify
+2026-10-01 01:09:24,394 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:24,424 dod_scan.classifier INFO Classified contract 498: procurement=False confidence=0.95
+2026-10-01 01:09:26,250 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:26,251 dod_scan.classifier INFO Classified contract 499: procurement=True confidence=0.98
+2026-10-01 01:09:27,896 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:27,899 dod_scan.classifier INFO Classified contract 500: procurement=False confidence=0.92
+2026-10-01 01:09:29,914 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:29,916 dod_scan.classifier INFO Classified contract 501: procurement=False confidence=0.98
+2026-10-01 01:09:31,210 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:31,212 dod_scan.classifier INFO Classified contract 502: procurement=False confidence=0.98
+2026-10-01 01:09:32,726 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:32,729 dod_scan.classifier INFO Classified contract 503: procurement=True confidence=0.99
+2026-10-01 01:09:34,666 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:34,668 dod_scan.classifier INFO Classified contract 504: procurement=True confidence=0.99
+2026-10-01 01:09:36,033 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:36,035 dod_scan.classifier INFO Classified contract 505: procurement=False confidence=0.98
+2026-10-01 01:09:37,752 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:37,754 dod_scan.classifier INFO Classified contract 506: procurement=True confidence=0.99
+2026-10-01 01:09:39,342 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:39,343 dod_scan.classifier INFO Classified contract 507: procurement=False confidence=0.95
+2026-10-01 01:09:40,934 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:40,935 dod_scan.classifier INFO Classified contract 508: procurement=False confidence=0.95
+2026-10-01 01:09:42,588 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:42,589 dod_scan.classifier INFO Classified contract 509: procurement=True confidence=0.99
+2026-10-01 01:09:44,361 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:44,363 dod_scan.classifier INFO Classified contract 510: procurement=True confidence=0.85
+2026-10-01 01:09:45,698 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:45,699 dod_scan.classifier INFO Classified contract 511: procurement=True confidence=0.98
+2026-10-01 01:09:47,488 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:47,489 dod_scan.classifier INFO Classified contract 512: procurement=False confidence=0.92
+2026-10-01 01:09:49,298 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:49,300 dod_scan.classifier INFO Classified contract 513: procurement=False confidence=0.98
+2026-10-01 01:09:51,289 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:51,291 dod_scan.classifier INFO Classified contract 514: procurement=False confidence=0.98
+2026-10-01 01:09:53,162 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:53,163 dod_scan.classifier INFO Classified contract 515: procurement=False confidence=0.95
+2026-10-01 01:09:55,002 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:09:55,004 dod_scan.classifier INFO Classified contract 516: procurement=False confidence=0.95
+2026-10-01 01:10:01,011 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:01,014 dod_scan.classifier INFO Classified contract 517: procurement=False confidence=0.45
+2026-10-01 01:10:02,700 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:02,701 dod_scan.classifier INFO Classified contract 518: procurement=False confidence=0.95
+2026-10-01 01:10:05,574 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:05,584 dod_scan.classifier INFO Classified contract 519: procurement=False confidence=0.95
+2026-10-01 01:10:07,024 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:07,026 dod_scan.classifier INFO Classified contract 520: procurement=False confidence=0.65
+2026-10-01 01:10:10,351 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:10,366 dod_scan.classifier INFO Classified contract 521: procurement=False confidence=0.95
+2026-10-01 01:10:11,836 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:11,837 dod_scan.classifier INFO Classified contract 522: procurement=False confidence=0.95
+2026-10-01 01:10:13,349 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:13,350 dod_scan.classifier INFO Classified contract 523: procurement=False confidence=0.95
+2026-10-01 01:10:14,862 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:14,863 dod_scan.classifier INFO Classified contract 524: procurement=False confidence=0.95
+2026-10-01 01:10:16,449 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:16,451 dod_scan.classifier INFO Classified contract 525: procurement=False confidence=0.92
+2026-10-01 01:10:17,941 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:17,942 dod_scan.classifier INFO Classified contract 526: procurement=True confidence=0.98
+2026-10-01 01:10:19,462 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:19,463 dod_scan.classifier INFO Classified contract 527: procurement=False confidence=0.98
+2026-10-01 01:10:20,888 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:20,890 dod_scan.classifier INFO Classified contract 528: procurement=False confidence=0.95
+2026-10-01 01:10:22,367 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:22,368 dod_scan.classifier INFO Classified contract 529: procurement=False confidence=0.95
+2026-10-01 01:10:23,867 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:23,869 dod_scan.classifier INFO Classified contract 530: procurement=False confidence=0.95
+2026-10-01 01:10:25,454 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:25,456 dod_scan.classifier INFO Classified contract 531: procurement=False confidence=0.95
+2026-10-01 01:10:26,993 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:26,994 dod_scan.classifier INFO Classified contract 532: procurement=False confidence=0.95
+2026-10-01 01:10:28,567 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:28,569 dod_scan.classifier INFO Classified contract 533: procurement=True confidence=0.85
+2026-10-01 01:10:30,140 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:30,142 dod_scan.classifier INFO Classified contract 534: procurement=False confidence=0.95
+2026-10-01 01:10:31,366 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:31,367 dod_scan.classifier INFO Classified contract 535: procurement=True confidence=0.99
+2026-10-01 01:10:33,122 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:33,124 dod_scan.classifier INFO Classified contract 536: procurement=False confidence=0.92
+2026-10-01 01:10:34,270 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:34,271 dod_scan.classifier INFO Classified contract 537: procurement=False confidence=0.92
+2026-10-01 01:10:35,610 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:35,611 dod_scan.classifier INFO Classified contract 538: procurement=False confidence=0.98
+2026-10-01 01:10:37,141 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:37,142 dod_scan.classifier INFO Classified contract 539: procurement=False confidence=0.95
+2026-10-01 01:10:38,863 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:38,864 dod_scan.classifier INFO Classified contract 540: procurement=True confidence=0.95
+2026-10-01 01:10:40,381 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:40,382 dod_scan.classifier INFO Classified contract 541: procurement=True confidence=0.98
+2026-10-01 01:10:41,848 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:41,849 dod_scan.classifier INFO Classified contract 542: procurement=True confidence=0.99
+2026-10-01 01:10:43,342 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:43,343 dod_scan.classifier INFO Classified contract 543: procurement=True confidence=0.98
+2026-10-01 01:10:44,845 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:44,847 dod_scan.classifier INFO Classified contract 544: procurement=True confidence=0.99
+2026-10-01 01:10:46,466 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:46,467 dod_scan.classifier INFO Classified contract 545: procurement=False confidence=0.98
+2026-10-01 01:10:48,130 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:48,131 dod_scan.classifier INFO Classified contract 546: procurement=False confidence=0.92
+2026-10-01 01:10:50,134 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:50,136 dod_scan.classifier INFO Classified contract 547: procurement=False confidence=0.92
+2026-10-01 01:10:51,744 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:51,746 dod_scan.classifier INFO Classified contract 548: procurement=True confidence=0.98
+2026-10-01 01:10:53,384 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:53,385 dod_scan.classifier INFO Classified contract 549: procurement=True confidence=0.85
+2026-10-01 01:10:54,854 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:54,856 dod_scan.classifier INFO Classified contract 550: procurement=True confidence=0.85
+2026-10-01 01:10:56,201 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-01 01:10:56,203 dod_scan.classifier INFO Classified contract 551: procurement=False confidence=0.85
+2026-10-01 01:10:56,203 dod_scan.classifier INFO Classification complete: 54 contracts classified
+2026-10-01 01:10:56,203 dod_scan.cli INFO Completed stage: classify
+2026-10-01 01:10:56,203 dod_scan.cli INFO Starting stage: geocode
+2026-10-01 01:10:56,207 dod_scan.geocoder WARNING No location to geocode for contract 13
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 24
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 25
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 69
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 84
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 109
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 128
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 161
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 162
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 180
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 215
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 216
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 217
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 218
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 220
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 224
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 242
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 247
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 255
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 258
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 259
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 262
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 309
+2026-10-01 01:10:56,208 dod_scan.geocoder WARNING No location to geocode for contract 329
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 369
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 422
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 427
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 438
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 491
+2026-10-01 01:10:56,209 dod_scan.geocoder WARNING No location to geocode for contract 496
+2026-10-01 01:10:56,209 dod_scan.geocoder_api INFO Geocoding Andover, Massachusetts via Nominatim
+2026-10-01 01:10:57,557 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Andover&state=Massachusetts&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:10:57,559 dod_scan.geocoder_api INFO Geocoding Norfolk, United Kingdom via Nominatim
+2026-10-01 01:10:59,051 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?q=Norfolk%2C+United+Kingdom&format=json&limit=1 "HTTP/1.1 200 OK"
+2026-10-01 01:10:59,053 dod_scan.geocoder_api INFO Geocoding Karlskoga, Sweden via Nominatim
+2026-10-01 01:11:00,447 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?q=Karlskoga%2C+Sweden&format=json&limit=1 "HTTP/1.1 200 OK"
+2026-10-01 01:11:00,449 dod_scan.geocoder_api INFO Geocoding Camden, New Jersey via Nominatim
+2026-10-01 01:11:02,233 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Camden&state=New+Jersey&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:11:02,235 dod_scan.geocoder_api INFO Geocoding Ridley Park, Pennsylvania via Nominatim
+2026-10-01 01:11:03,515 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Ridley+Park&state=Pennsylvania&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:11:03,517 dod_scan.geocoder_api INFO Geocoding Morgan City, Louisiana via Nominatim
+2026-10-01 01:11:05,322 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Morgan+City&state=Louisiana&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:11:05,325 dod_scan.geocoder_api INFO Geocoding Owego, New York via Nominatim
+2026-10-01 01:11:06,983 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Owego&state=New+York&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:11:06,986 dod_scan.geocoder_api INFO Geocoding Stevensville, Montana via Nominatim
+2026-10-01 01:11:08,654 httpx INFO HTTP Request: GET https://nominatim.openstreetmap.org/search?format=json&limit=1&city=Stevensville&state=Montana&country=United+States "HTTP/1.1 200 OK"
+2026-10-01 01:11:08,656 dod_scan.geocoder WARNING No location to geocode for contract 549
+2026-10-01 01:11:08,656 dod_scan.geocoder WARNING No location to geocode for contract 550
+2026-10-01 01:11:08,656 dod_scan.geocoder INFO Geocoding complete: 16 contracts geocoded
+2026-10-01 01:11:08,656 dod_scan.cli INFO Completed stage: geocode
+2026-10-01 01:11:08,656 dod_scan.cli INFO Starting stage: export
+2026-10-01 01:11:08,703 dod_scan.export_kml INFO Exporting 186 contracts to KML
+2026-10-01 01:11:08,736 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
+2026-10-01 01:11:08,737 dod_scan.cli INFO Completed stage: export
