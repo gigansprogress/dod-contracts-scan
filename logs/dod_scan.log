@@ -2286,3 +2286,58 @@
 2026-10-16 00:08:23,979 dod_scan.export_kml INFO Exporting 200 contracts to KML
 2026-10-16 00:08:24,018 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
 2026-10-16 00:08:24,018 dod_scan.cli INFO Completed stage: export
+2026-10-17 00:12:02,700 dod_scan.cli INFO Starting stage: scrape
+2026-10-17 00:12:03,189 dod_scan.scraper INFO Fetching index page 1: https://www.war.gov/News/Contracts/
+2026-10-17 00:12:03,440 httpx INFO HTTP Request: GET https://www.war.gov/News/Contracts/ "HTTP/1.1 403 Forbidden"
+2026-10-17 00:12:03,441 dod_scan.scraper_fetch WARNING httpx got 403, falling back to Playwright for https://www.war.gov/News/Contracts/
+2026-10-17 00:12:15,438 dod_scan.scraper INFO Found 0 article links on page 1
+2026-10-17 00:12:15,438 dod_scan.scraper INFO Scrape complete: 0 new pages stored
+2026-10-17 00:12:15,439 dod_scan.cli INFO Completed stage: scrape
+2026-10-17 00:12:15,439 dod_scan.cli INFO Starting stage: parse
+2026-10-17 00:12:15,447 dod_scan.parser INFO Parse complete: 0 contracts extracted
+2026-10-17 00:12:15,447 dod_scan.cli INFO Completed stage: parse
+2026-10-17 00:12:15,447 dod_scan.cli INFO Starting stage: classify
+2026-10-17 00:12:15,953 dod_scan.classifier INFO Classification complete: 0 contracts classified
+2026-10-17 00:12:15,954 dod_scan.cli INFO Completed stage: classify
+2026-10-17 00:12:15,954 dod_scan.cli INFO Starting stage: geocode
+2026-10-17 00:12:15,958 dod_scan.geocoder WARNING No location to geocode for contract 13
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 24
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 25
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 69
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 84
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 109
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 128
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 161
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 162
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 180
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 215
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 216
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 217
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 218
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 220
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 224
+2026-10-17 00:12:15,959 dod_scan.geocoder WARNING No location to geocode for contract 242
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 247
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 255
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 258
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 259
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 262
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 309
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 329
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 369
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 422
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 427
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 438
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 491
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 496
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 549
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 550
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 606
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 607
+2026-10-17 00:12:15,960 dod_scan.geocoder WARNING No location to geocode for contract 608
+2026-10-17 00:12:15,960 dod_scan.geocoder INFO Geocoding complete: 0 contracts geocoded
+2026-10-17 00:12:15,961 dod_scan.cli INFO Completed stage: geocode
+2026-10-17 00:12:15,961 dod_scan.cli INFO Starting stage: export
+2026-10-17 00:12:16,003 dod_scan.export_kml INFO Exporting 200 contracts to KML
+2026-10-17 00:12:16,046 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
+2026-10-17 00:12:16,047 dod_scan.cli INFO Completed stage: export
