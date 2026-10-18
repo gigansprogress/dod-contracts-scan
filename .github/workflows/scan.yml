@@ -50,7 +50,7 @@ jobs:
           fi
 
       - name: Run pipeline
-        run: xvfb-run -a uv run dod-scan run-all
+        run: xvfb-run -a uv run dod-scan run-all --format all
 
       - name: Commit and push results
         run: |
