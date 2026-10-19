@@ -1,15 +1,12 @@
-
 name: DOD Contract Scan
 
 on:
   schedule:
-    # 6 PM US Eastern, weekdays. GitHub Actions cron is UTC, so this is
-    # 22:00 UTC (EST, winter) — during EDT it'll actually run at 7 PM ET.
     - cron: '0 22 * * 1-5'
-  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
-  contents: write  # needed so the workflow can commit results back
+  contents: write
 
 jobs:
   scan:
@@ -21,7 +18,7 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v3
 
-      - name: Install Google Chrome
+      - name: Install Google Chrome and xvfb
         run: |
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable xvfb
@@ -43,6 +40,15 @@ jobs:
           LOG_DIR=./logs
           EOF
 
+      - name: Check Mapbox token type
+        env:
+          MAPBOX_TOKEN: ${{ secrets.MAPBOX_TOKEN }}
+        run: |
+          case "$MAPBOX_TOKEN" in
+            pk.*) echo "Mapbox token is a public pk. token - OK" ;;
+            *) echo "MAPBOX_TOKEN must start with pk. (check for stray spaces or quotes)"; exit 1 ;;
+          esac
+
       - name: Initialize database if missing
         run: |
           if [ ! -f dod_scan.db ]; then
@@ -52,10 +58,44 @@ jobs:
       - name: Run pipeline
         run: xvfb-run -a uv run dod-scan run-all --format all
 
+      - name: Check HTML for secret tokens
+        run: |
+          echo "Line 278 context (long strings redacted):"
+          sed -n '278p' output/dod_contracts.html | sed -E 's/[A-Za-z0-9_.-]{20,}/[redacted]/g'
+          if grep -qE '(^|[^A-Za-z0-9])sk\.ey' output/dod_contracts.html; then
+            echo "Found an sk. secret token in the HTML - not publishing"
+            exit 1
+          fi
+          echo "No sk. token found in HTML"
+
+      - name: Prepare Pages site
+        run: |
+          mkdir -p _site
+          cp output/dod_contracts.html _site/index.html
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
       - name: Commit and push results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f dod_scan.db output/ logs/ || true
+          git add -f dod_scan.db logs/ output/ ':(exclude)output/*.html' || true
           git diff --staged --quiet || git commit -m "Automated scan: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
+
+  deploy:
+    needs: scan
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
