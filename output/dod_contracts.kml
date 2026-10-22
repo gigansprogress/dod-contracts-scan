@@ -2223,6 +2223,17 @@
                 </Icon>
             </IconStyle>
         </Style>
+        <Style id="1014">
+            <IconStyle id="1015">
+                <color>ff00ff79</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="1016">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
         <name>DOD Procurement Contracts</name>
         <Placemark id="3">
             <name>Raytheon Co. — $20,699,334,581</name>
@@ -3833,10 +3844,18 @@
             </Point>
         </Placemark>
         <Placemark id="1008">
-            <name>Urschel Tool Co. — $9,000,000</name>
-            <description>&lt;b&gt;Urschel Tool Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,000,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-D-0086&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Urschel Tool Co.,* Cranston, Rhode Island, has been awarded a maximum $9,000,000 firm-fixed price, indefinite-delivery/indefinite-quantity contract for gold-finished end strap buckles and clips. This was a competitive acquisition with two responses received. This is a five-year contract with no option periods. The ordering period end date is Sept. 16, 2031. Using military service is Marine Corps. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The contracting act&lt;/small&gt;</description>
+            <name>New Enterprise Stone &amp; Lime Co. Inc. — $9,038,323</name>
+            <description>&lt;b&gt;New Enterprise Stone &amp;amp; Lime Co. Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,038,323&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W911N2-27-D-A006&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;New Enterprise Stone &amp;amp; Lime Co. Inc., New Enterprise, Pennsylvania, was awarded a $9,038,323 firm-fixed-price, indefinite-quantity/indefinite-delivery, contract to provide quarry materials for road construction projects at Letterkenny Army Depot. Bids were solicited via the internet with eight received. Work locations and funding will be determined with each order, with an estimated completion date of Oct. 20, 2031. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity&lt;/small&gt;</description>
             <styleUrl>#1009</styleUrl>
             <Point id="1007">
+                <coordinates>-78.4069593,40.1703568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Urschel Tool Co. — $9,000,000</name>
+            <description>&lt;b&gt;Urschel Tool Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,000,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-D-0086&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Urschel Tool Co.,* Cranston, Rhode Island, has been awarded a maximum $9,000,000 firm-fixed price, indefinite-delivery/indefinite-quantity contract for gold-finished end strap buckles and clips. This was a competitive acquisition with two responses received. This is a five-year contract with no option periods. The ordering period end date is Sept. 16, 2031. Using military service is Marine Corps. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The contracting act&lt;/small&gt;</description>
+            <styleUrl>#1014</styleUrl>
+            <Point id="1012">
                 <coordinates>-71.4366813,41.779588,0.0</coordinates>
             </Point>
         </Placemark>
