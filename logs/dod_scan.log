@@ -2957,3 +2957,93 @@
 2026-10-27 01:16:21,746 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
 2026-10-27 01:16:21,833 dod_scan.export_map INFO Mapbox dashboard written to output/dod_contracts.html
 2026-10-27 01:16:21,833 dod_scan.cli INFO Completed stage: export
+2026-10-28 01:01:37,148 dod_scan.cli INFO Starting stage: scrape
+2026-10-28 01:01:37,535 dod_scan.scraper INFO Fetching index page 1: https://www.war.gov/News/Contracts/
+2026-10-28 01:01:37,783 httpx INFO HTTP Request: GET https://www.war.gov/News/Contracts/ "HTTP/1.1 403 Forbidden"
+2026-10-28 01:01:37,784 dod_scan.scraper_fetch WARNING httpx got 403, falling back to Playwright for https://www.war.gov/News/Contracts/
+2026-10-28 01:01:43,756 dod_scan.scraper INFO Found 10 article links on page 1
+2026-10-28 01:01:43,877 httpx INFO HTTP Request: GET https://www.war.gov/News/Contracts/Contract/Article/4634810/contracts-for-oct-27-2026/ "HTTP/1.1 403 Forbidden"
+2026-10-28 01:01:43,878 dod_scan.scraper_fetch WARNING httpx got 403, falling back to Playwright for https://www.war.gov/News/Contracts/Contract/Article/4634810/contracts-for-oct-27-2026/
+2026-10-28 01:01:46,793 dod_scan.scraper INFO Stored article 4634810: Contracts for Oct. 27, 2026
+2026-10-28 01:01:46,793 dod_scan.scraper INFO Scrape complete: 1 new pages stored
+2026-10-28 01:01:46,793 dod_scan.cli INFO Completed stage: scrape
+2026-10-28 01:01:46,793 dod_scan.cli INFO Starting stage: parse
+2026-10-28 01:01:46,815 dod_scan.parser INFO Extracted 10 contracts from article 4634810
+2026-10-28 01:01:49,742 dod_scan.parser INFO Parse complete: 10 contracts extracted
+2026-10-28 01:01:49,742 dod_scan.cli INFO Completed stage: parse
+2026-10-28 01:01:49,742 dod_scan.cli INFO Starting stage: classify
+2026-10-28 01:01:51,645 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:01:51,667 dod_scan.classifier INFO Classified contract 686: procurement=True confidence=0.95
+2026-10-28 01:01:53,886 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:01:54,113 dod_scan.classifier INFO Classified contract 687: procurement=False confidence=0.95
+2026-10-28 01:01:55,421 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:01:55,422 dod_scan.classifier INFO Classified contract 688: procurement=False confidence=0.98
+2026-10-28 01:01:57,179 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:01:57,181 dod_scan.classifier INFO Classified contract 689: procurement=False confidence=0.85
+2026-10-28 01:01:58,507 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:01:58,599 dod_scan.classifier INFO Classified contract 690: procurement=False confidence=0.92
+2026-10-28 01:02:00,064 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:02:00,066 dod_scan.classifier INFO Classified contract 691: procurement=False confidence=0.95
+2026-10-28 01:02:01,857 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:02:01,858 dod_scan.classifier INFO Classified contract 692: procurement=False confidence=0.98
+2026-10-28 01:02:03,353 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:02:03,354 dod_scan.classifier INFO Classified contract 693: procurement=False confidence=0.95
+2026-10-28 01:02:05,435 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:02:05,494 dod_scan.classifier INFO Classified contract 694: procurement=False confidence=0.92
+2026-10-28 01:02:06,696 httpx INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-10-28 01:02:06,838 dod_scan.classifier INFO Classified contract 695: procurement=False confidence=0.85
+2026-10-28 01:02:06,839 dod_scan.classifier INFO Classification complete: 10 contracts classified
+2026-10-28 01:02:06,839 dod_scan.cli INFO Completed stage: classify
+2026-10-28 01:02:06,839 dod_scan.cli INFO Starting stage: geocode
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 13
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 24
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 25
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 69
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 84
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 109
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 128
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 161
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 162
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 180
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 215
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 216
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 217
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 218
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 220
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 224
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 242
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 247
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 255
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 258
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 259
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 262
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 309
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 329
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 369
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 422
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 427
+2026-10-28 01:02:06,843 dod_scan.geocoder WARNING No location to geocode for contract 438
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 491
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 496
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 549
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 550
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 606
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 607
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 608
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 630
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 631
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 641
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 653
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 656
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 657
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 663
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 669
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 679
+2026-10-28 01:02:06,844 dod_scan.geocoder WARNING No location to geocode for contract 686
+2026-10-28 01:02:06,844 dod_scan.geocoder INFO Geocoding complete: 0 contracts geocoded
+2026-10-28 01:02:06,844 dod_scan.cli INFO Completed stage: geocode
+2026-10-28 01:02:06,844 dod_scan.cli INFO Starting stage: export
+2026-10-28 01:02:06,877 dod_scan.export_kml INFO Exporting 209 contracts to KML
+2026-10-28 01:02:06,941 dod_scan.export_kml INFO KML file written to output/dod_contracts.kml
+2026-10-28 01:02:07,052 dod_scan.export_map INFO Mapbox dashboard written to output/dod_contracts.html
+2026-10-28 01:02:07,052 dod_scan.cli INFO Completed stage: export
