@@ -1840,7 +1840,7 @@
         </Style>
         <Style id="839">
             <IconStyle id="840">
-                <color>ff00ff93</color>
+                <color>ff00ff94</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1862,7 +1862,7 @@
         </Style>
         <Style id="849">
             <IconStyle id="850">
-                <color>ff00ff92</color>
+                <color>ff00ff93</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1895,7 +1895,7 @@
         </Style>
         <Style id="864">
             <IconStyle id="865">
-                <color>ff00ff91</color>
+                <color>ff00ff92</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1917,7 +1917,7 @@
         </Style>
         <Style id="874">
             <IconStyle id="875">
-                <color>ff00ff8e</color>
+                <color>ff00ff91</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1939,7 +1939,7 @@
         </Style>
         <Style id="884">
             <IconStyle id="885">
-                <color>ff00ff8d</color>
+                <color>ff00ff8e</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1950,7 +1950,7 @@
         </Style>
         <Style id="889">
             <IconStyle id="890">
-                <color>ff00ff8c</color>
+                <color>ff00ff8d</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1961,7 +1961,7 @@
         </Style>
         <Style id="894">
             <IconStyle id="895">
-                <color>ff00ff8a</color>
+                <color>ff00ff8c</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -1994,7 +1994,7 @@
         </Style>
         <Style id="909">
             <IconStyle id="910">
-                <color>ff00ff89</color>
+                <color>ff00ff8a</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2016,7 +2016,7 @@
         </Style>
         <Style id="919">
             <IconStyle id="920">
-                <color>ff00ff88</color>
+                <color>ff00ff89</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2038,7 +2038,7 @@
         </Style>
         <Style id="929">
             <IconStyle id="930">
-                <color>ff00ff87</color>
+                <color>ff00ff88</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2093,7 +2093,7 @@
         </Style>
         <Style id="954">
             <IconStyle id="955">
-                <color>ff00ff86</color>
+                <color>ff00ff87</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2104,7 +2104,7 @@
         </Style>
         <Style id="959">
             <IconStyle id="960">
-                <color>ff00ff85</color>
+                <color>ff00ff86</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2115,7 +2115,7 @@
         </Style>
         <Style id="964">
             <IconStyle id="965">
-                <color>ff00ff84</color>
+                <color>ff00ff85</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2126,7 +2126,7 @@
         </Style>
         <Style id="969">
             <IconStyle id="970">
-                <color>ff00ff83</color>
+                <color>ff00ff84</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2225,7 +2225,7 @@
         </Style>
         <Style id="1014">
             <IconStyle id="1015">
-                <color>ff00ff82</color>
+                <color>ff00ff83</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2247,7 +2247,7 @@
         </Style>
         <Style id="1024">
             <IconStyle id="1025">
-                <color>ff00ff81</color>
+                <color>ff00ff82</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2258,7 +2258,7 @@
         </Style>
         <Style id="1029">
             <IconStyle id="1030">
-                <color>ff00ff7f</color>
+                <color>ff00ff81</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2291,7 +2291,7 @@
         </Style>
         <Style id="1044">
             <IconStyle id="1045">
-                <color>ff00ff7e</color>
+                <color>ff00ff7f</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2313,7 +2313,7 @@
         </Style>
         <Style id="1054">
             <IconStyle id="1055">
-                <color>ff00ff7d</color>
+                <color>ff00ff7e</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2346,7 +2346,7 @@
         </Style>
         <Style id="1069">
             <IconStyle id="1070">
-                <color>ff00ff7c</color>
+                <color>ff00ff7d</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2357,7 +2357,7 @@
         </Style>
         <Style id="1074">
             <IconStyle id="1075">
-                <color>ff00ff7b</color>
+                <color>ff00ff7c</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2379,7 +2379,7 @@
         </Style>
         <Style id="1084">
             <IconStyle id="1085">
-                <color>ff00ff7a</color>
+                <color>ff00ff7b</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2412,7 +2412,7 @@
         </Style>
         <Style id="1099">
             <IconStyle id="1100">
-                <color>ff00ff79</color>
+                <color>ff00ff7a</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
@@ -2428,6 +2428,17 @@
                 <scale>1</scale>
                 <heading>0</heading>
                 <Icon id="1106">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="1109">
+            <IconStyle id="1110">
+                <color>ff00ff79</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="1111">
                     <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
                 </Icon>
             </IconStyle>
@@ -3762,131 +3773,131 @@
             </Point>
         </Placemark>
         <Placemark id="833">
-            <name>Trace3 Government LLC — $14,498,900</name>
-            <description>&lt;b&gt;Trace3 Government LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,498,900&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8723-26-F-B005&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Sept. 24, 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Trace3 Government LLC, Colorado Springs, Colorado, has been awarded a $14,498,900 firm-fixed-price contract for Oracle/Red Hat Enterprise Linux technical refresh. This contract provides for mission system hardware and software technology refresh. Work will be performed at Peterson Space Force Base, Colorado; Cheyenne Mountain Space Force Station, Colorado; and Offutt Air Force Base, Nebraska, and is expected to be completed by Sept. 24, 2028. This contract was a competitive acquisition, and thre&lt;/small&gt;</description>
+            <name>Numunu Martinez JV — $14,637,787</name>
+            <description>&lt;b&gt;Numunu Martinez JV&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,637,787&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6945027C0004&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Numunu Martinez JV, Lawton, Oklahoma, is awarded a $14,637,787 firm-fixed-price contract for the Atlantic Undersea Test and Evaluation Center (AUTEC) ground water storage tanks replacement. This contract provides for the replacement of two 500,000-gallon ground potable water storage tanks and associated infrastructure. Work will be performed at the AUTEC Main Base, Andros Island, Bahamas, and is expected to be completed by January 2028. The maximum dollar value, including the base period and zer&lt;/small&gt;</description>
             <styleUrl>#834</styleUrl>
             <Point id="832">
-                <coordinates>-104.7004494,38.8222878,0.0</coordinates>
+                <coordinates>-98.3952279,34.6051975,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="838">
-            <name>Pacific Scientific Energetic Materials Co. — $14,350,167</name>
-            <description>&lt;b&gt;Pacific Scientific Energetic Materials Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,350,167&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-K009&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Pacific Scientific Energetic Materials Co., Hollister, California, was awarded $14,350,167 for a firm-fixed-price contract for the procurement of 46 configurations of shielded mild detonating cords for use on F/A-18, AV8B and T-45 aircraft canopy removal systems. The contract does not include an option period. All work will be performed in Hollister, California, and work is expected to be completed by March 2029. This announcement involves Foreign Military Sales (FMS) to Finland (13%), Kuwait (7&lt;/small&gt;</description>
+            <name>Trace3 Government LLC — $14,498,900</name>
+            <description>&lt;b&gt;Trace3 Government LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,498,900&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8723-26-F-B005&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Sept. 24, 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Trace3 Government LLC, Colorado Springs, Colorado, has been awarded a $14,498,900 firm-fixed-price contract for Oracle/Red Hat Enterprise Linux technical refresh. This contract provides for mission system hardware and software technology refresh. Work will be performed at Peterson Space Force Base, Colorado; Cheyenne Mountain Space Force Station, Colorado; and Offutt Air Force Base, Nebraska, and is expected to be completed by Sept. 24, 2028. This contract was a competitive acquisition, and thre&lt;/small&gt;</description>
             <styleUrl>#839</styleUrl>
             <Point id="837">
-                <coordinates>-121.4016021,36.8524545,0.0</coordinates>
+                <coordinates>-104.7004494,38.8222878,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="843">
-            <name>Saab Inc. — $14,308,164</name>
-            <description>&lt;b&gt;Saab Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,308,164&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001923C0049&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; June 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Saab Inc., East Syracuse, New York, is awarded a $14,308,164 firm-fixed-price modification (P00026) to a previously awarded contract (N0001923C0049). This modification exercises an option for the production and delivery of one surface ship radar navigation (SPN-50) low-rate initial production unit in support of the Navy&amp;#x27;s shipboard air traffic control operations. Work will be performed in East Syracuse, New York and is expected to be completed in June 2028. Fiscal 2027 other procurement (Navy) f&lt;/small&gt;</description>
+            <name>Pacific Scientific Energetic Materials Co. — $14,350,167</name>
+            <description>&lt;b&gt;Pacific Scientific Energetic Materials Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,350,167&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-K009&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Pacific Scientific Energetic Materials Co., Hollister, California, was awarded $14,350,167 for a firm-fixed-price contract for the procurement of 46 configurations of shielded mild detonating cords for use on F/A-18, AV8B and T-45 aircraft canopy removal systems. The contract does not include an option period. All work will be performed in Hollister, California, and work is expected to be completed by March 2029. This announcement involves Foreign Military Sales (FMS) to Finland (13%), Kuwait (7&lt;/small&gt;</description>
             <styleUrl>#844</styleUrl>
             <Point id="842">
-                <coordinates>-76.0785332,43.0653446,0.0</coordinates>
+                <coordinates>-121.4016021,36.8524545,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="848">
-            <name>Northrop Grumman Systems Corp. — $14,179,813</name>
-            <description>&lt;b&gt;Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,179,813&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-C-0170&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Northrop Grumman Systems Corp., Oklahoma City, Oklahoma, has been awarded an estimated $14,179,813 firm-fixed-price contract for the manufacture and production of B-2 alarm controls. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a three-year contract with no option periods. The performance completion date is Dec. 31, 2029. Using military service is Air Force. Type of appropriation is fiscal 2026 defen&lt;/small&gt;</description>
+            <name>Saab Inc. — $14,308,164</name>
+            <description>&lt;b&gt;Saab Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,308,164&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001923C0049&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; June 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Saab Inc., East Syracuse, New York, is awarded a $14,308,164 firm-fixed-price modification (P00026) to a previously awarded contract (N0001923C0049). This modification exercises an option for the production and delivery of one surface ship radar navigation (SPN-50) low-rate initial production unit in support of the Navy&amp;#x27;s shipboard air traffic control operations. Work will be performed in East Syracuse, New York and is expected to be completed in June 2028. Fiscal 2027 other procurement (Navy) f&lt;/small&gt;</description>
             <styleUrl>#849</styleUrl>
             <Point id="847">
-                <coordinates>-97.5170536,35.4729886,0.0</coordinates>
+                <coordinates>-76.0785332,43.0653446,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="853">
-            <name>OCCI Inc. — $14,121,862</name>
-            <description>&lt;b&gt;OCCI Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,121,862&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912EK-26-C-A036&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;OCCI Inc., Fulton, Missouri, was awarded a firm-fixed-price contract to replace nine Tainter gates for Lock 21 on the Mississippi River, including fabrication and delivery. The amount of this action is $14,121,862 with a total cumulative face value of $27,918,934. Bids were solicited via the internet with six received. Work will be performed in Fulton, Missouri, with an estimated completion date of Aug. 22, 2031. Fiscal 2026 civil operation and maintenance funds in the amount of $14,121,862 were&lt;/small&gt;</description>
+            <name>Northrop Grumman Systems Corp. — $14,179,813</name>
+            <description>&lt;b&gt;Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,179,813&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-C-0170&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Northrop Grumman Systems Corp., Oklahoma City, Oklahoma, has been awarded an estimated $14,179,813 firm-fixed-price contract for the manufacture and production of B-2 alarm controls. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a three-year contract with no option periods. The performance completion date is Dec. 31, 2029. Using military service is Air Force. Type of appropriation is fiscal 2026 defen&lt;/small&gt;</description>
             <styleUrl>#854</styleUrl>
             <Point id="852">
-                <coordinates>-91.9479586,38.8467082,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="858">
-            <name>G&amp;G Steel Inc. — $14,016,810</name>
-            <description>&lt;b&gt;G&amp;amp;G Steel Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,016,810&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912EQ-27-C-A001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;G&amp;amp;G Steel Inc.,* Russellville, Alabama, was awarded a $14,016,810 firm-fixed-price contract for fabrication and delivery of a new steel connector bridge and related components. Bids were solicited via the internet with one received. Work will be performed in Memphis, Tennessee, with an estimated completion date of Feb. 15, 2028. Fiscal 2027 civil construction funds in the amount of $14,016,810 were obligated at the time of the award. U.S. Army Corps of Engineers, Memphis, Tennessee, is the contr&lt;/small&gt;</description>
-            <styleUrl>#859</styleUrl>
-            <Point id="857">
-                <coordinates>-90.0517786,35.146026,0.0</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="863">
-            <name>The Boeing Co. — $13,834,325</name>
-            <description>&lt;b&gt;The Boeing Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,834,325&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;The Boeing Co., Oklahoma City, Oklahoma, has been awarded an estimated $13,834,325 cost-plus-fixed-fee definitized modification (P00003) to delivery order (SPRTA1-24-F-0323) issued against a five-year subsumable base contract (SPRPA1-24-D-001E) for the manufacture and production of KC-135 fan duct transactional spares. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is an eight-year contract with no option&lt;/small&gt;</description>
-            <styleUrl>#864</styleUrl>
-            <Point id="862">
                 <coordinates>-97.5170536,35.4729886,0.0</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="858">
+            <name>OCCI Inc. — $14,121,862</name>
+            <description>&lt;b&gt;OCCI Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,121,862&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912EK-26-C-A036&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;OCCI Inc., Fulton, Missouri, was awarded a firm-fixed-price contract to replace nine Tainter gates for Lock 21 on the Mississippi River, including fabrication and delivery. The amount of this action is $14,121,862 with a total cumulative face value of $27,918,934. Bids were solicited via the internet with six received. Work will be performed in Fulton, Missouri, with an estimated completion date of Aug. 22, 2031. Fiscal 2026 civil operation and maintenance funds in the amount of $14,121,862 were&lt;/small&gt;</description>
+            <styleUrl>#859</styleUrl>
+            <Point id="857">
+                <coordinates>-91.9479586,38.8467082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>G&amp;G Steel Inc. — $14,016,810</name>
+            <description>&lt;b&gt;G&amp;amp;G Steel Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $14,016,810&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912EQ-27-C-A001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;G&amp;amp;G Steel Inc.,* Russellville, Alabama, was awarded a $14,016,810 firm-fixed-price contract for fabrication and delivery of a new steel connector bridge and related components. Bids were solicited via the internet with one received. Work will be performed in Memphis, Tennessee, with an estimated completion date of Feb. 15, 2028. Fiscal 2027 civil construction funds in the amount of $14,016,810 were obligated at the time of the award. U.S. Army Corps of Engineers, Memphis, Tennessee, is the contr&lt;/small&gt;</description>
+            <styleUrl>#864</styleUrl>
+            <Point id="862">
+                <coordinates>-90.0517786,35.146026,0.0</coordinates>
+            </Point>
+        </Placemark>
         <Placemark id="868">
-            <name> — $13,763,859</name>
-            <description>&lt;b&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,763,859&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6134017C0007&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rockwell Collins Inc., Government Systems, Cedar Rapids, Iowa, is awarded a $13,763,859 modification (P00075) to a previously awarded firm-fixed-price contract (N6134017C0007). This modification establishes contract line items to provide full rate production III supplemental spares, shipping containers, security and software support, engineering changes, site support, and other equipment and services in support of the Tactical Combat Training System II program for the Navy. Work will be performe&lt;/small&gt;</description>
+            <name>The Boeing Co. — $13,834,325</name>
+            <description>&lt;b&gt;The Boeing Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,834,325&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;The Boeing Co., Oklahoma City, Oklahoma, has been awarded an estimated $13,834,325 cost-plus-fixed-fee definitized modification (P00003) to delivery order (SPRTA1-24-F-0323) issued against a five-year subsumable base contract (SPRPA1-24-D-001E) for the manufacture and production of KC-135 fan duct transactional spares. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is an eight-year contract with no option&lt;/small&gt;</description>
             <styleUrl>#869</styleUrl>
             <Point id="867">
-                <coordinates>-91.6704053,41.9758872,0.0</coordinates>
+                <coordinates>-97.5170536,35.4729886,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="873">
-            <name>Lockheed Martin Missile and Fire Control — $13,168,410</name>
-            <description>&lt;b&gt;Lockheed Martin Missile and Fire Control&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,168,410&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8682-19-C-0008&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Nov. 29, 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Missile and Fire Control, Orlando, Florida, has been awarded a $13,168,410 modification (P00033) to a previously awarded contract (FA8682-19-C-0008) for Joint Air-to-Surface Standoff Missile Inventory Increase Integrated Product Team Facilitization Phase IV-B: tooling and test equipment for Increased Long Range Anti-Ship Missile production. The modification brings the total cumulative face value of the contract to $476,116,828 from $462,948,418. Work will be performed at Orlando,&lt;/small&gt;</description>
+            <name> — $13,763,859</name>
+            <description>&lt;b&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,763,859&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6134017C0007&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rockwell Collins Inc., Government Systems, Cedar Rapids, Iowa, is awarded a $13,763,859 modification (P00075) to a previously awarded firm-fixed-price contract (N6134017C0007). This modification establishes contract line items to provide full rate production III supplemental spares, shipping containers, security and software support, engineering changes, site support, and other equipment and services in support of the Tactical Combat Training System II program for the Navy. Work will be performe&lt;/small&gt;</description>
             <styleUrl>#874</styleUrl>
             <Point id="872">
-                <coordinates>-81.379045,28.5421218,0.0</coordinates>
+                <coordinates>-91.6704053,41.9758872,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="878">
-            <name>Raytheon Technologies Corp. — $13,058,854</name>
-            <description>&lt;b&gt;Raytheon Technologies Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,058,854&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Technologies Corp., East Hartford, Connecticut, has been awarded an estimated $13,058,854 modification (P0002) to a two-year delivery order (SPRTA1-22-F-0162) issued against a five-year basic ordering agreement (SPE4AX-20-D-R001) with no option periods for cost redetermination for the manufacture of TF33 Anti-friction bearing housings. This is a firm-fixed-price contract. The performance completion date is Sept. 14, 2028. Using military service is Air Force. Type of appropriation is fis&lt;/small&gt;</description>
+            <name>Lockheed Martin Missile and Fire Control — $13,168,410</name>
+            <description>&lt;b&gt;Lockheed Martin Missile and Fire Control&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,168,410&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8682-19-C-0008&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Nov. 29, 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Missile and Fire Control, Orlando, Florida, has been awarded a $13,168,410 modification (P00033) to a previously awarded contract (FA8682-19-C-0008) for Joint Air-to-Surface Standoff Missile Inventory Increase Integrated Product Team Facilitization Phase IV-B: tooling and test equipment for Increased Long Range Anti-Ship Missile production. The modification brings the total cumulative face value of the contract to $476,116,828 from $462,948,418. Work will be performed at Orlando,&lt;/small&gt;</description>
             <styleUrl>#879</styleUrl>
             <Point id="877">
-                <coordinates>-72.644512,41.767914,0.0</coordinates>
+                <coordinates>-81.379045,28.5421218,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="883">
-            <name>Hardwick Tactical Corp. — $12,929,445</name>
-            <description>&lt;b&gt;Hardwick Tactical Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,929,445&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Hardwick Tactical Corp.,* Mayaguez, Puerto Rico, has been awarded a maximum $12,929,445 modification (P00008) exercising the second one-year option period of a one-year base contract (SPE1C1-24-D-0038) with four one-year option periods for extreme cold weather parkas. This is a firm-fixed-price, indefinite-delivery/indefinite-quantity contract. The ordering period end date is Sept. 25, 2027. Using military services are Army and Marine Corps. Type of appropriation is fiscal 2026 through 2027 defe&lt;/small&gt;</description>
+            <name>Raytheon Technologies Corp. — $13,058,854</name>
+            <description>&lt;b&gt;Raytheon Technologies Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $13,058,854&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Technologies Corp., East Hartford, Connecticut, has been awarded an estimated $13,058,854 modification (P0002) to a two-year delivery order (SPRTA1-22-F-0162) issued against a five-year basic ordering agreement (SPE4AX-20-D-R001) with no option periods for cost redetermination for the manufacture of TF33 Anti-friction bearing housings. This is a firm-fixed-price contract. The performance completion date is Sept. 14, 2028. Using military service is Air Force. Type of appropriation is fis&lt;/small&gt;</description>
             <styleUrl>#884</styleUrl>
             <Point id="882">
-                <coordinates>-67.1391124,18.2011161,0.0</coordinates>
+                <coordinates>-72.644512,41.767914,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="888">
-            <name>Exiger Government Solutions — $12,700,000</name>
-            <description>&lt;b&gt;Exiger Government Solutions&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,700,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W9128Z-26-C-A019&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Exiger Government Solutions, McLean, Virginia, was awarded a $12,700,000 firm-fixed-price contract for a software subscription license. Bids were solicited via the internet with one received. Work will be performed in McLean, Virginia, with an estimated completion date of Sept. 29, 2027. Fiscal 2026 operation and maintenance, Army funds in the amount of $12,700,000 were obligated at the time of the award. Army Contracting Command, Aberdeen Proving Ground, Maryland, is the contracting activity (W&lt;/small&gt;</description>
+            <name>Hardwick Tactical Corp. — $12,929,445</name>
+            <description>&lt;b&gt;Hardwick Tactical Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,929,445&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Hardwick Tactical Corp.,* Mayaguez, Puerto Rico, has been awarded a maximum $12,929,445 modification (P00008) exercising the second one-year option period of a one-year base contract (SPE1C1-24-D-0038) with four one-year option periods for extreme cold weather parkas. This is a firm-fixed-price, indefinite-delivery/indefinite-quantity contract. The ordering period end date is Sept. 25, 2027. Using military services are Army and Marine Corps. Type of appropriation is fiscal 2026 through 2027 defe&lt;/small&gt;</description>
             <styleUrl>#889</styleUrl>
             <Point id="887">
-                <coordinates>-77.1776327,38.9342888,0.0</coordinates>
+                <coordinates>-67.1391124,18.2011161,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="893">
-            <name>ACM Elite LLC — $12,173,634</name>
-            <description>&lt;b&gt;ACM Elite LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,173,634&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;ACM Elite LLC, Stevensville, Montana, has been awarded a maximum $12,173,634 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for shipping and storage containers. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The performance completion date is Sept. 28, 2031. Using military service is Army. Type of appropriation is fiscal 2026 Army working&lt;/small&gt;</description>
+            <name>Exiger Government Solutions — $12,700,000</name>
+            <description>&lt;b&gt;Exiger Government Solutions&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,700,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W9128Z-26-C-A019&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Exiger Government Solutions, McLean, Virginia, was awarded a $12,700,000 firm-fixed-price contract for a software subscription license. Bids were solicited via the internet with one received. Work will be performed in McLean, Virginia, with an estimated completion date of Sept. 29, 2027. Fiscal 2026 operation and maintenance, Army funds in the amount of $12,700,000 were obligated at the time of the award. Army Contracting Command, Aberdeen Proving Ground, Maryland, is the contracting activity (W&lt;/small&gt;</description>
             <styleUrl>#894</styleUrl>
             <Point id="892">
-                <coordinates>-114.094385,46.510407,0.0</coordinates>
+                <coordinates>-77.1776327,38.9342888,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="898">
-            <name>Weibel Equipment Inc. — $12,130,705</name>
-            <description>&lt;b&gt;Weibel Equipment Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,130,705&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Weibel Equipment Inc.,* Reston, Virginia, has been awarded a maximum $12,130,705 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for muzzle velocity radar systems and containers. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a three-year contract with no option periods. The performance completion date is Sept. 21, 2029. Using military service is Army. Type of appropriation is fiscal&lt;/small&gt;</description>
+            <name>ACM Elite LLC — $12,173,634</name>
+            <description>&lt;b&gt;ACM Elite LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,173,634&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;ACM Elite LLC, Stevensville, Montana, has been awarded a maximum $12,173,634 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for shipping and storage containers. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The performance completion date is Sept. 28, 2031. Using military service is Army. Type of appropriation is fiscal 2026 Army working&lt;/small&gt;</description>
             <styleUrl>#899</styleUrl>
             <Point id="897">
-                <coordinates>-77.3585955,38.9587514,0.0</coordinates>
+                <coordinates>-114.094385,46.510407,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="903">
-            <name>Lockheed Martin Aeronautics Co. — $12,127,945</name>
-            <description>&lt;b&gt;Lockheed Martin Aeronautics Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,127,945&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001924F2584&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2032&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Aeronautics Co., Fort Worth, Texas, is awarded a $12,127,945 modification (P0002) to a cost-plus-fixed-fee order (N0001924F2584) against a previously issued basic ordering agreement (N0001924G0010). This modification adds scope to provide for diminishing manufacturing sources and material shortages redesign number eight to redesign the Fuselage Remote Interface Unit A2 High Bandwidth Assembly to remove the obsolete Programmable Video Sync Generator from the existing design in sup&lt;/small&gt;</description>
+            <name>Weibel Equipment Inc. — $12,130,705</name>
+            <description>&lt;b&gt;Weibel Equipment Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,130,705&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Weibel Equipment Inc.,* Reston, Virginia, has been awarded a maximum $12,130,705 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for muzzle velocity radar systems and containers. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a three-year contract with no option periods. The performance completion date is Sept. 21, 2029. Using military service is Army. Type of appropriation is fiscal&lt;/small&gt;</description>
             <styleUrl>#904</styleUrl>
             <Point id="902">
-                <coordinates>-97.3327459,32.753177,0.0</coordinates>
+                <coordinates>-77.3585955,38.9587514,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="908">
-            <name>Petro Marine Services Inc. — $12,016,632</name>
-            <description>&lt;b&gt;Petro Marine Services Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,016,632&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE605-26-D-1004&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Petro Marine Services Inc., Seward, Alaska, has been awarded a minimum $12,016,632 fixed-price with economic-price adjustment contract for FS1 fuel oil burners. This was a competitive acquisition with 11 responses received. This is a five-year contract with one six-month option period. The performance completion date is March 31, 2031. Using customers are Coast Guard and federal civilian agencies. Type of appropriation is fiscal 2027 through 2031 defense working capital funds. The contracting ac&lt;/small&gt;</description>
+            <name>Lockheed Martin Aeronautics Co. — $12,127,945</name>
+            <description>&lt;b&gt;Lockheed Martin Aeronautics Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,127,945&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001924F2584&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2032&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Aeronautics Co., Fort Worth, Texas, is awarded a $12,127,945 modification (P0002) to a cost-plus-fixed-fee order (N0001924F2584) against a previously issued basic ordering agreement (N0001924G0010). This modification adds scope to provide for diminishing manufacturing sources and material shortages redesign number eight to redesign the Fuselage Remote Interface Unit A2 High Bandwidth Assembly to remove the obsolete Programmable Video Sync Generator from the existing design in sup&lt;/small&gt;</description>
             <styleUrl>#909</styleUrl>
             <Point id="907">
-                <coordinates>-149.4404281,60.1013952,0.0</coordinates>
+                <coordinates>-97.3327459,32.753177,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="913">
@@ -3898,51 +3909,51 @@
             </Point>
         </Placemark>
         <Placemark id="918">
-            <name>Fairwinds Technologies LLC — $11,744,357</name>
-            <description>&lt;b&gt;Fairwinds Technologies LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,744,357&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-F-E63T&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; August 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Fairwinds Technologies LLC,* Annapolis, Maryland, is awarded $11,744,357 for firm-fixed-price delivery order N00104-26-F-E63T under previously awarded Defense Logistics Agency Maritime Acquisition Advancement Contract multiple-award, indefinite-delivery contract SPRMM125CMD01 for the repair of 100 electron tubes in support of the Navy’s Close-In Weapon System. The delivery order does not include an option provision. All work is expected to be completed by August 2029 and will be performed in Pal&lt;/small&gt;</description>
+            <name>Petro Marine Services Inc. — $12,016,632</name>
+            <description>&lt;b&gt;Petro Marine Services Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $12,016,632&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE605-26-D-1004&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Petro Marine Services Inc., Seward, Alaska, has been awarded a minimum $12,016,632 fixed-price with economic-price adjustment contract for FS1 fuel oil burners. This was a competitive acquisition with 11 responses received. This is a five-year contract with one six-month option period. The performance completion date is March 31, 2031. Using customers are Coast Guard and federal civilian agencies. Type of appropriation is fiscal 2027 through 2031 defense working capital funds. The contracting ac&lt;/small&gt;</description>
             <styleUrl>#919</styleUrl>
             <Point id="917">
-                <coordinates>-76.492786,38.9786401,0.0</coordinates>
+                <coordinates>-149.4404281,60.1013952,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="923">
-            <name>General Electric Co. — $11,713,066</name>
-            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,713,066&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded an estimated $11,713,066 firm-fixed-price delivery order (SPRTA1-26-F-2230) issued against a five-year basic ordering agreement (SPE4A1-24-G-0014) or the manufacture of F108 aircraft stator case and vane assemblies. This is a five-year contract with no option periods. The performance completion date is Oct. 31, 2031. Using military service is Air Force. Type of appropriation is fiscal 2026 defense working capital funds. The contracting act&lt;/small&gt;</description>
+            <name>Fairwinds Technologies LLC — $11,744,357</name>
+            <description>&lt;b&gt;Fairwinds Technologies LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,744,357&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-F-E63T&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; August 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Fairwinds Technologies LLC,* Annapolis, Maryland, is awarded $11,744,357 for firm-fixed-price delivery order N00104-26-F-E63T under previously awarded Defense Logistics Agency Maritime Acquisition Advancement Contract multiple-award, indefinite-delivery contract SPRMM125CMD01 for the repair of 100 electron tubes in support of the Navy’s Close-In Weapon System. The delivery order does not include an option provision. All work is expected to be completed by August 2029 and will be performed in Pal&lt;/small&gt;</description>
             <styleUrl>#924</styleUrl>
             <Point id="922">
-                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
+                <coordinates>-76.492786,38.9786401,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="928">
-            <name>BAE Systems Information and Electronic Systems Integration — $11,585,348</name>
-            <description>&lt;b&gt;BAE Systems Information and Electronic Systems Integration&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,585,348&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001923C0052&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; June 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;BAE Systems Information and Electronic Systems Integration, Nashua, New Hampshire, is awarded an $11,585,348 modification (P00015) to previously awarded contract N0001923C0052. This modification adds scope to procure three OE-120/UPX Antenna group systems, two retrofit kits, four installation and checkout kits, one Delta installation and checkout kit, one OE-4729/UPX Delta material kit, testing, production support, and technical data requirements for the Navy and the government of Japan. Work wi&lt;/small&gt;</description>
+            <name>General Electric Co. — $11,713,066</name>
+            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,713,066&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded an estimated $11,713,066 firm-fixed-price delivery order (SPRTA1-26-F-2230) issued against a five-year basic ordering agreement (SPE4A1-24-G-0014) or the manufacture of F108 aircraft stator case and vane assemblies. This is a five-year contract with no option periods. The performance completion date is Oct. 31, 2031. Using military service is Air Force. Type of appropriation is fiscal 2026 defense working capital funds. The contracting act&lt;/small&gt;</description>
             <styleUrl>#929</styleUrl>
             <Point id="927">
-                <coordinates>-71.4677032,42.7656251,0.0</coordinates>
+                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="933">
-            <name>Raytheon — $11,571,421</name>
-            <description>&lt;b&gt;Raytheon&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,571,421&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-22-C-5400&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; December 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon, Tucson, Arizona, was awarded an $11,571,421 firm-fixed-price modification to previously awarded contract (N00024-22-C-5400) to support the procurement of spare parts for Seeker Head Assemblies for Rolling Airframe Missile (RAM) Block 1/2 Guided Missile Round Pack requirements. Work will be performed in Tucson, Arizona (92%); Richardson, Texas (7%); and various other U.S. locations (cumulative of 1%), and is expected to be completed by December 2029. Fiscal 2026 weapons procurement (Nav&lt;/small&gt;</description>
+            <name>BAE Systems Information and Electronic Systems Integration — $11,585,348</name>
+            <description>&lt;b&gt;BAE Systems Information and Electronic Systems Integration&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,585,348&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001923C0052&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; June 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;BAE Systems Information and Electronic Systems Integration, Nashua, New Hampshire, is awarded an $11,585,348 modification (P00015) to previously awarded contract N0001923C0052. This modification adds scope to procure three OE-120/UPX Antenna group systems, two retrofit kits, four installation and checkout kits, one Delta installation and checkout kit, one OE-4729/UPX Delta material kit, testing, production support, and technical data requirements for the Navy and the government of Japan. Work wi&lt;/small&gt;</description>
             <styleUrl>#934</styleUrl>
             <Point id="932">
-                <coordinates>-110.974847,32.2228765,0.0</coordinates>
+                <coordinates>-71.4677032,42.7656251,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="938">
-            <name>LAD Services of Louisiana LLC — $11,520,000</name>
-            <description>&lt;b&gt;LAD Services of Louisiana LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,520,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912BU-26-C-A043&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;LAD Services of Louisiana LLC,* Morgan City, Louisiana, was awarded an $11,520,000 firm-fixed-price contract to acquire three new welded steel barges. Bids were solicited via the internet with six received. Work will be performed in Morgan City, Louisiana, with an estimated completion date of June 16, 2028. Fiscal 2026 defense revolving funds in the amount of $11,520,000 were obligated at the time of the award. U.S. Army Corps of Engineers, Philadelphia, Pennsylvania, is the contracting activity&lt;/small&gt;</description>
+            <name>Raytheon — $11,571,421</name>
+            <description>&lt;b&gt;Raytheon&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,571,421&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-22-C-5400&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; December 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon, Tucson, Arizona, was awarded an $11,571,421 firm-fixed-price modification to previously awarded contract (N00024-22-C-5400) to support the procurement of spare parts for Seeker Head Assemblies for Rolling Airframe Missile (RAM) Block 1/2 Guided Missile Round Pack requirements. Work will be performed in Tucson, Arizona (92%); Richardson, Texas (7%); and various other U.S. locations (cumulative of 1%), and is expected to be completed by December 2029. Fiscal 2026 weapons procurement (Nav&lt;/small&gt;</description>
             <styleUrl>#939</styleUrl>
             <Point id="937">
-                <coordinates>-91.20677,29.6993748,0.0</coordinates>
+                <coordinates>-110.974847,32.2228765,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="943">
-            <name>G &amp; G Steel Inc. — $11,497,944</name>
-            <description>&lt;b&gt;G &amp;amp; G Steel Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,497,944&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912QR-26-F-A264&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;G &amp;amp; G Steel Inc.,* Russellville, Alabama, was awarded an $11,497,944 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for removal, fabrication, delivery, and installation of culvert valve assemblies for the main lock chamber at Cannelton Locks and Dam. The amount of this action is $11,497,944 with a total cumulative face value of $14,642,943. Bids were solicited via the internet with three received. Work locations and funding will be determined with each order, with an estimate&lt;/small&gt;</description>
+            <name>LAD Services of Louisiana LLC — $11,520,000</name>
+            <description>&lt;b&gt;LAD Services of Louisiana LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,520,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912BU-26-C-A043&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;LAD Services of Louisiana LLC,* Morgan City, Louisiana, was awarded an $11,520,000 firm-fixed-price contract to acquire three new welded steel barges. Bids were solicited via the internet with six received. Work will be performed in Morgan City, Louisiana, with an estimated completion date of June 16, 2028. Fiscal 2026 defense revolving funds in the amount of $11,520,000 were obligated at the time of the award. U.S. Army Corps of Engineers, Philadelphia, Pennsylvania, is the contracting activity&lt;/small&gt;</description>
             <styleUrl>#944</styleUrl>
             <Point id="942">
-                <coordinates>-87.7300015,34.5041961,0.0</coordinates>
+                <coordinates>-91.20677,29.6993748,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="948">
@@ -3954,35 +3965,35 @@
             </Point>
         </Placemark>
         <Placemark id="953">
-            <name>Keysight Technologies Inc. — $11,376,546</name>
-            <description>&lt;b&gt;Keysight Technologies Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,376,546&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; M67854-26-D-5110&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2030&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Keysight Technologies Inc., Colorado Springs, Colorado, was awarded an $11,376,546 firm-fixed-price, sole-source, indefinite-delivery/indefinite-quantity contract for the Microwave Radio Test Sets (MRTS). This contract provides calibration, repair, and other operations and maintenance support for the existing inventory of MRTS and for the procurement of new MRTS units. The ordering period will be a maximum of four years and is expected to be completed in September 2030. Work will be performed in&lt;/small&gt;</description>
+            <name>G &amp; G Steel Inc. — $11,497,944</name>
+            <description>&lt;b&gt;G &amp;amp; G Steel Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,497,944&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912QR-26-F-A264&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;G &amp;amp; G Steel Inc.,* Russellville, Alabama, was awarded an $11,497,944 firm-fixed-price, indefinite-delivery/indefinite-quantity contract for removal, fabrication, delivery, and installation of culvert valve assemblies for the main lock chamber at Cannelton Locks and Dam. The amount of this action is $11,497,944 with a total cumulative face value of $14,642,943. Bids were solicited via the internet with three received. Work locations and funding will be determined with each order, with an estimate&lt;/small&gt;</description>
             <styleUrl>#954</styleUrl>
             <Point id="952">
-                <coordinates>-104.825348,38.8339578,0.0</coordinates>
+                <coordinates>-87.7300015,34.5041961,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="958">
-            <name>Lockheed Martin Global Inc. — $11,236,734</name>
-            <description>&lt;b&gt;Lockheed Martin Global Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,236,734&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA2383-23-C-B001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 30, 2030&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Global Inc., Chantilly, Virginia, has been awarded a maximum $11,236,734 modification (P00012) to a previously awarded contract (FA2383-23-C-B001) for spare radar parts. The modification brings the total cumulative face value of the contract to $64,476,176 from $53,239,442. Work will be performed in Liverpool, New York; and Lithuania, and is expected to be completed by March 30, 2030. This contract involves Foreign Military Sales to the Republic of Lithuania. Fiscal 2025 operatio&lt;/small&gt;</description>
+            <name>Keysight Technologies Inc. — $11,376,546</name>
+            <description>&lt;b&gt;Keysight Technologies Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,376,546&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; M67854-26-D-5110&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2030&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Keysight Technologies Inc., Colorado Springs, Colorado, was awarded an $11,376,546 firm-fixed-price, sole-source, indefinite-delivery/indefinite-quantity contract for the Microwave Radio Test Sets (MRTS). This contract provides calibration, repair, and other operations and maintenance support for the existing inventory of MRTS and for the procurement of new MRTS units. The ordering period will be a maximum of four years and is expected to be completed in September 2030. Work will be performed in&lt;/small&gt;</description>
             <styleUrl>#959</styleUrl>
             <Point id="957">
-                <coordinates>-76.217705,43.106456,0.0</coordinates>
+                <coordinates>-104.825348,38.8339578,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="963">
-            <name>Carver Pump Co. — $10,983,000</name>
-            <description>&lt;b&gt;Carver Pump Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,983,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Carver Pump Co., Muscatine, Iowa, has been awarded a maximum $10,983,000 firm-fixed-price contract for centrifugal pumps. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a one-year contract with no option periods. The delivery order end date is June 12, 2028. Using military service is Navy. Type of appropriation is fiscal 2026 Navy working capital funds. The contracting activity is Defense Logistics Age&lt;/small&gt;</description>
+            <name>Lockheed Martin Global Inc. — $11,236,734</name>
+            <description>&lt;b&gt;Lockheed Martin Global Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $11,236,734&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA2383-23-C-B001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 30, 2030&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Lockheed Martin Global Inc., Chantilly, Virginia, has been awarded a maximum $11,236,734 modification (P00012) to a previously awarded contract (FA2383-23-C-B001) for spare radar parts. The modification brings the total cumulative face value of the contract to $64,476,176 from $53,239,442. Work will be performed in Liverpool, New York; and Lithuania, and is expected to be completed by March 30, 2030. This contract involves Foreign Military Sales to the Republic of Lithuania. Fiscal 2025 operatio&lt;/small&gt;</description>
             <styleUrl>#964</styleUrl>
             <Point id="962">
-                <coordinates>-91.0436508,41.4246132,0.0</coordinates>
+                <coordinates>-76.217705,43.106456,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="968">
-            <name>General Electric Co. — $10,763,472</name>
-            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,763,472&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded a maximum $10,763,472 firm-fixed-price, one-time-buy delivery order (SPRTA1-26-F-0445) issued against a five-year basic ordering agreement (SPEA1-24-G-0014) for F118 vane, fan and aircraft gas turbine engines. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The delivery order end date is Aug. 31, 2031. &lt;/small&gt;</description>
+            <name>Carver Pump Co. — $10,983,000</name>
+            <description>&lt;b&gt;Carver Pump Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,983,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Carver Pump Co., Muscatine, Iowa, has been awarded a maximum $10,983,000 firm-fixed-price contract for centrifugal pumps. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a one-year contract with no option periods. The delivery order end date is June 12, 2028. Using military service is Navy. Type of appropriation is fiscal 2026 Navy working capital funds. The contracting activity is Defense Logistics Age&lt;/small&gt;</description>
             <styleUrl>#969</styleUrl>
             <Point id="967">
-                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
+                <coordinates>-91.0436508,41.4246132,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="973">
@@ -3994,19 +4005,19 @@
             </Point>
         </Placemark>
         <Placemark id="978">
-            <name>The Northrop Grumman Systems Corp. — $10,762,018</name>
-            <description>&lt;b&gt;The Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,762,018&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;The Northrop Grumman Systems Corp., Melbourne, Florida, has been awarded a maximum $10,762,018 firm-fixed-price delivery order (SPRPA1-26-F-D601) issued against a five-year basic ordering agreement (SPRPA1-26-G-D601) for mission control displays. This was a sole-source acquisition using justification 10 U.S. Code 3204 (c)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a three-year contract with no option periods. The delivery order end date is Feb. 9, 2029. Using customers are &lt;/small&gt;</description>
+            <name>General Electric Co. — $10,763,472</name>
+            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,763,472&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded a maximum $10,763,472 firm-fixed-price, one-time-buy delivery order (SPRTA1-26-F-0445) issued against a five-year basic ordering agreement (SPEA1-24-G-0014) for F118 vane, fan and aircraft gas turbine engines. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The delivery order end date is Aug. 31, 2031. &lt;/small&gt;</description>
             <styleUrl>#979</styleUrl>
             <Point id="977">
-                <coordinates>-80.6077908,28.0785034,0.0</coordinates>
+                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="983">
-            <name> — $10,754,610</name>
-            <description>&lt;b&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,754,610&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001921C0064&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; November 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;L3 Technologies Inc., L-3 Telemetry &amp;amp; Radio Frequency Products, San Diego, California, is awarded a $10,754,610 modification (P00035) to a previously awarded firm-fixed-price contract (N0001921C0064). This modification exercises an option to procure an additional 176 Modernized Radios, including 38 for the Navy and 138 for Foreign Military Sales (FMS) customers. Work will be performed in San Diego, California, and is expected to be completed in November 2028. Fiscal 2025 weapons procurement (Nav&lt;/small&gt;</description>
+            <name>The Northrop Grumman Systems Corp. — $10,762,018</name>
+            <description>&lt;b&gt;The Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,762,018&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;The Northrop Grumman Systems Corp., Melbourne, Florida, has been awarded a maximum $10,762,018 firm-fixed-price delivery order (SPRPA1-26-F-D601) issued against a five-year basic ordering agreement (SPRPA1-26-G-D601) for mission control displays. This was a sole-source acquisition using justification 10 U.S. Code 3204 (c)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a three-year contract with no option periods. The delivery order end date is Feb. 9, 2029. Using customers are &lt;/small&gt;</description>
             <styleUrl>#984</styleUrl>
             <Point id="982">
-                <coordinates>-117.1638284,32.7157062,0.0</coordinates>
+                <coordinates>-80.6077908,28.0785034,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="988">
@@ -4018,27 +4029,27 @@
             </Point>
         </Placemark>
         <Placemark id="993">
-            <name>Rockwell Collins Simulation &amp; Training Solutions LLC — $10,721,245</name>
-            <description>&lt;b&gt;Rockwell Collins Simulation &amp;amp; Training Solutions LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,721,245&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6134026C1001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; November 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rockwell Collins Simulation &amp;amp; Training Solutions LLC, Cedar Rapids, Iowa, is awarded a $10,721,245 modification (P00002) to a previously awarded firm-fixed-price contract (N6134026C1001). This modification establishes new contract line items to procure fifteen Special Programs Advanced Readiness Trainers Afloat/Ashore, along with associated technical data, computer software, and computer software documentation, in support of the E-2D Hawkeye Integrated Training Systems V. Work will be performed &lt;/small&gt;</description>
+            <name> — $10,754,610</name>
+            <description>&lt;b&gt;&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,754,610&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N0001921C0064&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; November 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;L3 Technologies Inc., L-3 Telemetry &amp;amp; Radio Frequency Products, San Diego, California, is awarded a $10,754,610 modification (P00035) to a previously awarded firm-fixed-price contract (N0001921C0064). This modification exercises an option to procure an additional 176 Modernized Radios, including 38 for the Navy and 138 for Foreign Military Sales (FMS) customers. Work will be performed in San Diego, California, and is expected to be completed in November 2028. Fiscal 2025 weapons procurement (Nav&lt;/small&gt;</description>
             <styleUrl>#994</styleUrl>
             <Point id="992">
-                <coordinates>-77.4033349,39.0017455,0.0</coordinates>
+                <coordinates>-117.1638284,32.7157062,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="998">
-            <name>IERUS Technologies Inc. — $10,712,914</name>
-            <description>&lt;b&gt;IERUS Technologies Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,712,914&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6833526C1067&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;IERUS Technologies Inc.,* Huntsville, Alabama, is awarded a $10,712,914 firm-fixed-price Small Business Innovation Research Phase III contract (N68335-26-C-1067) under Small Business Innovation Research Topic AF141-154, titled “Conformal Conductivity Probe,” for the procurement of 190 electromagnetically hardened Compact Electromagnetic Nondestructive Assessment probes in support of the F-35 Joint Strike Fighter program. This effort transitions the probe systems developed, tested, and validated &lt;/small&gt;</description>
+            <name>Rockwell Collins Simulation &amp; Training Solutions LLC — $10,721,245</name>
+            <description>&lt;b&gt;Rockwell Collins Simulation &amp;amp; Training Solutions LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,721,245&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6134026C1001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; November 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rockwell Collins Simulation &amp;amp; Training Solutions LLC, Cedar Rapids, Iowa, is awarded a $10,721,245 modification (P00002) to a previously awarded firm-fixed-price contract (N6134026C1001). This modification establishes new contract line items to procure fifteen Special Programs Advanced Readiness Trainers Afloat/Ashore, along with associated technical data, computer software, and computer software documentation, in support of the E-2D Hawkeye Integrated Training Systems V. Work will be performed &lt;/small&gt;</description>
             <styleUrl>#999</styleUrl>
             <Point id="997">
-                <coordinates>-97.3327459,32.753177,0.0</coordinates>
+                <coordinates>-77.4033349,39.0017455,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1003">
-            <name>VetJet Fuels LLC — $10,660,801</name>
-            <description>&lt;b&gt;VetJet Fuels LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,660,801&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE605-26-D-1005&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;VetJet Fuels LLC, Dallas, Texas, has been awarded a minimum $10,660,801 fixed-price with economic-price adjustment contract for FS1 fuel oil burners, DS1 diesel fuel, and MUR automotive gasoline. This was a competitive acquisition with 11 responses received. This is a five-year contract with one six-month option period. Location of performance is Alaska, with a March 31, 2031, performance completion date. Using customers are Army, Air Force and federal civilian agencies. Type of appropriation is&lt;/small&gt;</description>
+            <name>IERUS Technologies Inc. — $10,712,914</name>
+            <description>&lt;b&gt;IERUS Technologies Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,712,914&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6833526C1067&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;IERUS Technologies Inc.,* Huntsville, Alabama, is awarded a $10,712,914 firm-fixed-price Small Business Innovation Research Phase III contract (N68335-26-C-1067) under Small Business Innovation Research Topic AF141-154, titled “Conformal Conductivity Probe,” for the procurement of 190 electromagnetically hardened Compact Electromagnetic Nondestructive Assessment probes in support of the F-35 Joint Strike Fighter program. This effort transitions the probe systems developed, tested, and validated &lt;/small&gt;</description>
             <styleUrl>#1004</styleUrl>
             <Point id="1002">
-                <coordinates>-149.680909,64.4459613,0.0</coordinates>
+                <coordinates>-97.3327459,32.753177,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1008">
@@ -4050,107 +4061,107 @@
             </Point>
         </Placemark>
         <Placemark id="1013">
-            <name>Skyeton Inc. — $10,640,000</name>
-            <description>&lt;b&gt;Skyeton Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,640,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W58RGZ-26-F-A026&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Skyeton Inc., North Las Vegas, Nevada, was awarded a $10,640,000 firm-fixed-price for Raybird UAS hardware and services. Bids were solicited via the internet with one received. Work locations and funding will be determined with each order, with an estimated completion date of Dec. 15, 2026. U.S. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity (W58RGZ-26-F-A026).&lt;/small&gt;</description>
+            <name>VetJet Fuels LLC — $10,660,801</name>
+            <description>&lt;b&gt;VetJet Fuels LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,660,801&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE605-26-D-1005&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;VetJet Fuels LLC, Dallas, Texas, has been awarded a minimum $10,660,801 fixed-price with economic-price adjustment contract for FS1 fuel oil burners, DS1 diesel fuel, and MUR automotive gasoline. This was a competitive acquisition with 11 responses received. This is a five-year contract with one six-month option period. Location of performance is Alaska, with a March 31, 2031, performance completion date. Using customers are Army, Air Force and federal civilian agencies. Type of appropriation is&lt;/small&gt;</description>
             <styleUrl>#1014</styleUrl>
             <Point id="1012">
-                <coordinates>-115.1214745,36.2005191,0.0</coordinates>
+                <coordinates>-149.680909,64.4459613,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1018">
-            <name>R4 Integration Inc. — $10,632,000</name>
-            <description>&lt;b&gt;R4 Integration Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,632,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8691-26-C-B019&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Feb. 12, 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;R4 Integration Inc., Fort Walton Beach, Florida, has been awarded a $10,632,000 firm-fixed-price contract for aircraft component supplies. This contract provides for the purchase of aircraft communications suite equipment. Work will be performed at Fort Walton Beach, Florida, and is expected to be completed by Feb. 12, 2027. This contract was a sole acquisition. Fiscal 2024 aircraft procurement funds in the amount of $7,500,000; and fiscal 2025 aircraft procurement funds in the amount of $3,132,&lt;/small&gt;</description>
+            <name>Skyeton Inc. — $10,640,000</name>
+            <description>&lt;b&gt;Skyeton Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,640,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W58RGZ-26-F-A026&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Skyeton Inc., North Las Vegas, Nevada, was awarded a $10,640,000 firm-fixed-price for Raybird UAS hardware and services. Bids were solicited via the internet with one received. Work locations and funding will be determined with each order, with an estimated completion date of Dec. 15, 2026. U.S. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity (W58RGZ-26-F-A026).&lt;/small&gt;</description>
             <styleUrl>#1019</styleUrl>
             <Point id="1017">
-                <coordinates>-86.618842,30.4057552,0.0</coordinates>
+                <coordinates>-115.1214745,36.2005191,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1023">
-            <name>Northrop Grumman Systems Corp. — $10,407,606</name>
-            <description>&lt;b&gt;Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,407,606&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8615-17-C-6047&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 31, 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Northrop Grumman Systems Corp., Meadows, Illinois, has been awarded a $10,407,606 modification (P00189) to a previously awarded contract (FA8615-17-C-6047) for F-16 Integrated Viper Electronic Warfare Suite-Electronic Warfare radio frequency compatibility, diminishing manufacturing sources and material shortages effort. The modification brings the total cumulative face value of the contract from $1,971,177,431 to $1,981,585,037. Work will be performed at Rolling Meadows, Illinois, and is expecte&lt;/small&gt;</description>
+            <name>R4 Integration Inc. — $10,632,000</name>
+            <description>&lt;b&gt;R4 Integration Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,632,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8691-26-C-B019&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; Feb. 12, 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;R4 Integration Inc., Fort Walton Beach, Florida, has been awarded a $10,632,000 firm-fixed-price contract for aircraft component supplies. This contract provides for the purchase of aircraft communications suite equipment. Work will be performed at Fort Walton Beach, Florida, and is expected to be completed by Feb. 12, 2027. This contract was a sole acquisition. Fiscal 2024 aircraft procurement funds in the amount of $7,500,000; and fiscal 2025 aircraft procurement funds in the amount of $3,132,&lt;/small&gt;</description>
             <styleUrl>#1024</styleUrl>
             <Point id="1022">
-                <coordinates>-88.0131275,42.0841936,0.0</coordinates>
+                <coordinates>-86.618842,30.4057552,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1028">
-            <name>Intercomp — $9,999,961</name>
-            <description>&lt;b&gt;Intercomp&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,999,961&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA445226F0049&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Intercomp, Medina, Minnesota, has been awarded a $9,999,961 delivery order for the procurement of Deployed Automated Cargo Measuring Systems (DACMS). This contract provides DACMS within and outside the continental US. This contract was a sole source acquisition. Fiscal 2026 operations and maintenance funds in the amount of $9,999,961 are being obligated at time of award. The 763d Enterprise Sourcing Squadron, Scott Air Force Base, Illinois is the contracting activity (FA445226F0049).&lt;/small&gt;</description>
+            <name>Northrop Grumman Systems Corp. — $10,407,606</name>
+            <description>&lt;b&gt;Northrop Grumman Systems Corp.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $10,407,606&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA8615-17-C-6047&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 31, 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Northrop Grumman Systems Corp., Meadows, Illinois, has been awarded a $10,407,606 modification (P00189) to a previously awarded contract (FA8615-17-C-6047) for F-16 Integrated Viper Electronic Warfare Suite-Electronic Warfare radio frequency compatibility, diminishing manufacturing sources and material shortages effort. The modification brings the total cumulative face value of the contract from $1,971,177,431 to $1,981,585,037. Work will be performed at Rolling Meadows, Illinois, and is expecte&lt;/small&gt;</description>
             <styleUrl>#1029</styleUrl>
             <Point id="1027">
-                <coordinates>-93.574375,45.0151361,0.0</coordinates>
+                <coordinates>-88.0131275,42.0841936,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1033">
-            <name>Marotta Controls Inc. — $9,999,780</name>
-            <description>&lt;b&gt;Marotta Controls Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,999,780&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-FA32&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; April 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Marotta Controls Inc.,* Moorestown, New Jersey, is awarded $9,999,780 for a firm-fixed-price contract for the procurement of 20 Manifold valve assemblies for use on Navy Virginia-class submarines. The contract does not contain an option provision. All work under the contract will be performed in Montville, New Jersey, and is expected to be completed by April 2029. Fiscal 2026 working capital funds (Navy) in the contract’s full amount of $9,999,780 will be obligated at time of award and those fun&lt;/small&gt;</description>
+            <name>Intercomp — $9,999,961</name>
+            <description>&lt;b&gt;Intercomp&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,999,961&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; FA445226F0049&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; AIR FORCE&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Intercomp, Medina, Minnesota, has been awarded a $9,999,961 delivery order for the procurement of Deployed Automated Cargo Measuring Systems (DACMS). This contract provides DACMS within and outside the continental US. This contract was a sole source acquisition. Fiscal 2026 operations and maintenance funds in the amount of $9,999,961 are being obligated at time of award. The 763d Enterprise Sourcing Squadron, Scott Air Force Base, Illinois is the contracting activity (FA445226F0049).&lt;/small&gt;</description>
             <styleUrl>#1034</styleUrl>
             <Point id="1032">
-                <coordinates>-74.9426677,39.9670569,0.0</coordinates>
+                <coordinates>-93.574375,45.0151361,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1038">
-            <name>Bethel Yuut LLC — $9,982,440</name>
-            <description>&lt;b&gt;Bethel Yuut LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,982,440&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-C-0026&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Bethel Yuut LLC,* Anchorage, Alaska, has been awarded a maximum $9,982,440 firm-fixed-price, fixed-quantity contract for Army Green Service Uniform men’s all-weather coats. This was a competitive acquisition with two responses received. This is an 18-month contract with no option periods. The performance completion date is June 30, 2028. Using military service is Army. Type of appropriation is fiscal 2026 through 2028 defense working capital funds. The contracting activity is Defense Logistics A&lt;/small&gt;</description>
+            <name>Marotta Controls Inc. — $9,999,780</name>
+            <description>&lt;b&gt;Marotta Controls Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,999,780&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-FA32&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; April 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Marotta Controls Inc.,* Moorestown, New Jersey, is awarded $9,999,780 for a firm-fixed-price contract for the procurement of 20 Manifold valve assemblies for use on Navy Virginia-class submarines. The contract does not contain an option provision. All work under the contract will be performed in Montville, New Jersey, and is expected to be completed by April 2029. Fiscal 2026 working capital funds (Navy) in the contract’s full amount of $9,999,780 will be obligated at time of award and those fun&lt;/small&gt;</description>
             <styleUrl>#1039</styleUrl>
             <Point id="1037">
-                <coordinates>-149.894852,61.2163129,0.0</coordinates>
+                <coordinates>-74.9426677,39.9670569,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1043">
-            <name>Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division) — $9,870,833</name>
-            <description>&lt;b&gt;Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division)&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,870,833&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-ZA23&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2031&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division), Bethlehem, Pennsylvania, is being awarded $9,870,833 for a firm-fixed-price contract for the procurement of seven hovering control/recycle pump and motors used on Navy Virginia-class submarines. The contract does not contain an option provision. All work under the contract will be performed in Bethlehem, Pennsylvania, and is expected to be completed by March 2031. Fiscal 2026 working capital funds (Navy) in the contract&amp;#x27;s full a&lt;/small&gt;</description>
+            <name>Bethel Yuut LLC — $9,982,440</name>
+            <description>&lt;b&gt;Bethel Yuut LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,982,440&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-C-0026&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Bethel Yuut LLC,* Anchorage, Alaska, has been awarded a maximum $9,982,440 firm-fixed-price, fixed-quantity contract for Army Green Service Uniform men’s all-weather coats. This was a competitive acquisition with two responses received. This is an 18-month contract with no option periods. The performance completion date is June 30, 2028. Using military service is Army. Type of appropriation is fiscal 2026 through 2028 defense working capital funds. The contracting activity is Defense Logistics A&lt;/small&gt;</description>
             <styleUrl>#1044</styleUrl>
             <Point id="1042">
-                <coordinates>-75.3786521,40.6178915,0.0</coordinates>
+                <coordinates>-149.894852,61.2163129,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1048">
-            <name>Rosemount Aerospace — $9,794,010</name>
-            <description>&lt;b&gt;Rosemount Aerospace&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,794,010&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-F-0540&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rosemount Aerospace, Burnsville, Minnesota, has been awarded a maximum $9,794,010 firm-fixed-price contract for B-2 pressure transmitter units. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a three-year contract with no option periods. The performance completion date is June 30, 2029. Using military service is Air Force. Type of appropriation is fiscal 2026 operation and maintenance funds. The contrac&lt;/small&gt;</description>
+            <name>Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division) — $9,870,833</name>
+            <description>&lt;b&gt;Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division)&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,870,833&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00104-26-C-ZA23&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2031&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Curtiss-Wright Electro-Mechanical Corp. (Engineered Pump Division), Bethlehem, Pennsylvania, is being awarded $9,870,833 for a firm-fixed-price contract for the procurement of seven hovering control/recycle pump and motors used on Navy Virginia-class submarines. The contract does not contain an option provision. All work under the contract will be performed in Bethlehem, Pennsylvania, and is expected to be completed by March 2031. Fiscal 2026 working capital funds (Navy) in the contract&amp;#x27;s full a&lt;/small&gt;</description>
             <styleUrl>#1049</styleUrl>
             <Point id="1047">
-                <coordinates>-93.2773887,44.7670567,0.0</coordinates>
+                <coordinates>-75.3786521,40.6178915,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1053">
-            <name>Martin Military Inc. — $9,730,075</name>
-            <description>&lt;b&gt;Martin Military Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,730,075&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Martin Military Inc.,* Massapequa, New York, has been awarded a maximum $9,730,075 firm-fixed-price, indefinite-quantity contract for pre-corrosion anodes. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in the Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The ordering period end date is Sept. 27, 2031. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The military service is &lt;/small&gt;</description>
+            <name>Rosemount Aerospace — $9,794,010</name>
+            <description>&lt;b&gt;Rosemount Aerospace&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,794,010&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-F-0540&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Rosemount Aerospace, Burnsville, Minnesota, has been awarded a maximum $9,794,010 firm-fixed-price contract for B-2 pressure transmitter units. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a three-year contract with no option periods. The performance completion date is June 30, 2029. Using military service is Air Force. Type of appropriation is fiscal 2026 operation and maintenance funds. The contrac&lt;/small&gt;</description>
             <styleUrl>#1054</styleUrl>
             <Point id="1052">
-                <coordinates>-73.4696557,40.6761472,0.0</coordinates>
+                <coordinates>-93.2773887,44.7670567,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1058">
-            <name>Wright Tool Co. LLC — $9,718,553</name>
-            <description>&lt;b&gt;Wright Tool Co. LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,718,553&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912CH-26-C-A092&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Wright Tool Co. LLC,* Warren, Michigan, was awarded a $9,718,553 firm-fixed-price contract for procurement of Standard Automotive Tool Set Base in Mobile systems. Bids were solicited via the internet with five received. Work will be performed in Warren, Michigan, with an estimated completion date of March 2, 2027. Fiscal 2027 Army working capital funds in the amount of $9,718,553 were obligated at the time of the award. Army Contracting Command, Detroit Arsenal, Michigan, is the contracting acti&lt;/small&gt;</description>
+            <name>Martin Military Inc. — $9,730,075</name>
+            <description>&lt;b&gt;Martin Military Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,730,075&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Martin Military Inc.,* Massapequa, New York, has been awarded a maximum $9,730,075 firm-fixed-price, indefinite-quantity contract for pre-corrosion anodes. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in the Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The ordering period end date is Sept. 27, 2031. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The military service is &lt;/small&gt;</description>
             <styleUrl>#1059</styleUrl>
             <Point id="1057">
-                <coordinates>-83.0062746,42.4932575,0.0</coordinates>
+                <coordinates>-73.4696557,40.6761472,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1063">
-            <name>Technologies LLC — $9,636,523</name>
-            <description>&lt;b&gt;Technologies LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,636,523&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6833526F1190&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Technologies LLC*, Fort Lee, New Jersey, is awarded a $9,636,523 firm-fixed-price order (N6833526F1190) against a previously issued basic ordering agreement (N6833525G0003) under Small Business Innovation Research Phase III Topic N181-088, titled “High Dynamic Range Multi-Carrier Amplifier (HDR MCA).” This order provides for the further maturation and production of the High Frequency Over-the-Horizon Communication (HFORCE) system, integration with HDR MCA, performance verification, production, m&lt;/small&gt;</description>
+            <name>Wright Tool Co. LLC — $9,718,553</name>
+            <description>&lt;b&gt;Wright Tool Co. LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,718,553&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W912CH-26-C-A092&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Wright Tool Co. LLC,* Warren, Michigan, was awarded a $9,718,553 firm-fixed-price contract for procurement of Standard Automotive Tool Set Base in Mobile systems. Bids were solicited via the internet with five received. Work will be performed in Warren, Michigan, with an estimated completion date of March 2, 2027. Fiscal 2027 Army working capital funds in the amount of $9,718,553 were obligated at the time of the award. Army Contracting Command, Detroit Arsenal, Michigan, is the contracting acti&lt;/small&gt;</description>
             <styleUrl>#1064</styleUrl>
             <Point id="1062">
-                <coordinates>-73.9701382,40.8509333,0.0</coordinates>
+                <coordinates>-83.0062746,42.4932575,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1068">
-            <name>Advanced Acoustic Concepts LLC — $9,481,422</name>
-            <description>&lt;b&gt;Advanced Acoustic Concepts LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,481,422&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-24-C-6311&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Advanced Acoustic Concepts LLC, Great River, New York, is awarded a $9,481,422 firm-fixed-price, cost-plus-fixed-fee, and cost modification to previously awarded contract (N00024-24-C-6311) for the Littoral Combat Ship mission package computers, software and trainer. Work will be performed in Great River, New York (50%), Lemont Furnace, Pennsylvania (35%), and Washington, D.C. (15%) and is expected to be completed by September 2027. Fiscal 2026 other procurement (Navy) funds in the amount of $1,&lt;/small&gt;</description>
+            <name>Technologies LLC — $9,636,523</name>
+            <description>&lt;b&gt;Technologies LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,636,523&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N6833526F1190&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; March 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Technologies LLC*, Fort Lee, New Jersey, is awarded a $9,636,523 firm-fixed-price order (N6833526F1190) against a previously issued basic ordering agreement (N6833525G0003) under Small Business Innovation Research Phase III Topic N181-088, titled “High Dynamic Range Multi-Carrier Amplifier (HDR MCA).” This order provides for the further maturation and production of the High Frequency Over-the-Horizon Communication (HFORCE) system, integration with HDR MCA, performance verification, production, m&lt;/small&gt;</description>
             <styleUrl>#1069</styleUrl>
             <Point id="1067">
-                <coordinates>-73.1576139,40.7212097,0.0</coordinates>
+                <coordinates>-73.9701382,40.8509333,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1073">
-            <name>Raytheon Missiles and Defense — $9,326,000</name>
-            <description>&lt;b&gt;Raytheon Missiles and Defense&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,326,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-22-C-5522&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; April 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Missiles and Defense, Tewksbury, Massachusetts, is awarded a $9,326,000 firm-fixed-price modification to previously awarded contract N00024-22-C-5522 to procure spares and software licenses in support of Combat System installation, integration, development, testing, correction, maintenance, and modernization of Zumwalt-class mission systems and mission system equipment. Work will be performed in Merrimack, New Hampshire (70%), Portsmouth, Rhode Island (10%); Tewksbury, Massachusetts (10&lt;/small&gt;</description>
+            <name>Advanced Acoustic Concepts LLC — $9,481,422</name>
+            <description>&lt;b&gt;Advanced Acoustic Concepts LLC&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,481,422&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-24-C-6311&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; September 2027&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Advanced Acoustic Concepts LLC, Great River, New York, is awarded a $9,481,422 firm-fixed-price, cost-plus-fixed-fee, and cost modification to previously awarded contract (N00024-24-C-6311) for the Littoral Combat Ship mission package computers, software and trainer. Work will be performed in Great River, New York (50%), Lemont Furnace, Pennsylvania (35%), and Washington, D.C. (15%) and is expected to be completed by September 2027. Fiscal 2026 other procurement (Navy) funds in the amount of $1,&lt;/small&gt;</description>
             <styleUrl>#1074</styleUrl>
             <Point id="1072">
-                <coordinates>-71.4936642,42.8665376,0.0</coordinates>
+                <coordinates>-73.1576139,40.7212097,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1078">
@@ -4162,42 +4173,50 @@
             </Point>
         </Placemark>
         <Placemark id="1083">
-            <name>Raytheon Co. — $9,200,000</name>
-            <description>&lt;b&gt;Raytheon Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,200,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00253-24-C-0001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Co., Portsmouth, Rhode Island, is awarded a $9,200,000 firm-fixed-price modification to a previously awarded contract (N00253-24-C-0001) for a provisioned item order including spare parts and production support material related to the MK 54 Lightweight Torpedo. Work will be performed in Portsmouth, Rhode Island, and is expected to be completed by January 2029. Fiscal 2025 weapons procurement (Navy) funds in the amount of $9,200,000 will be obligated at time of award and will not expire &lt;/small&gt;</description>
+            <name>Raytheon Missiles and Defense — $9,326,000</name>
+            <description>&lt;b&gt;Raytheon Missiles and Defense&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,326,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00024-22-C-5522&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; April 2028&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Missiles and Defense, Tewksbury, Massachusetts, is awarded a $9,326,000 firm-fixed-price modification to previously awarded contract N00024-22-C-5522 to procure spares and software licenses in support of Combat System installation, integration, development, testing, correction, maintenance, and modernization of Zumwalt-class mission systems and mission system equipment. Work will be performed in Merrimack, New Hampshire (70%), Portsmouth, Rhode Island (10%); Tewksbury, Massachusetts (10&lt;/small&gt;</description>
             <styleUrl>#1084</styleUrl>
             <Point id="1082">
-                <coordinates>-71.2503157,41.6024068,0.0</coordinates>
+                <coordinates>-71.4936642,42.8665376,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1088">
-            <name>Intellisense Systems Inc. — $9,199,649</name>
-            <description>&lt;b&gt;Intellisense Systems Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,199,649&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-C-0159&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Intellisense Systems Inc.,* Torrance, California, has been awarded a maximum $9,199,649 firm-fixed-price contract for B-2 fire control systems. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a two-year contract with no option periods. The performance completion date is July 15, 2028. Using military service is Air Force. Type of appropriation is fiscal 2026 Air Force operation and maintenance funds. The&lt;/small&gt;</description>
+            <name>Raytheon Co. — $9,200,000</name>
+            <description>&lt;b&gt;Raytheon Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,200,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; N00253-24-C-0001&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; NAVY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; January 2029&lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Raytheon Co., Portsmouth, Rhode Island, is awarded a $9,200,000 firm-fixed-price modification to a previously awarded contract (N00253-24-C-0001) for a provisioned item order including spare parts and production support material related to the MK 54 Lightweight Torpedo. Work will be performed in Portsmouth, Rhode Island, and is expected to be completed by January 2029. Fiscal 2025 weapons procurement (Navy) funds in the amount of $9,200,000 will be obligated at time of award and will not expire &lt;/small&gt;</description>
             <styleUrl>#1089</styleUrl>
             <Point id="1087">
-                <coordinates>-118.3413606,33.8371392,0.0</coordinates>
+                <coordinates>-71.2503157,41.6024068,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1093">
-            <name>General Electric Co. — $9,155,644</name>
-            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,155,644&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded a maximum $9,155,644 firm-fixed-price, one-time-buy delivery order (SPRTA1-26-F-0543) issued against a five-year basic ordering agreement (SPEA1-24-G-0014) for F110aircraft turbine nozzles. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The delivery order end date is Oct. 31, 2029. Using military servi&lt;/small&gt;</description>
+            <name>Intellisense Systems Inc. — $9,199,649</name>
+            <description>&lt;b&gt;Intellisense Systems Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,199,649&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPRTA1-26-C-0159&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Intellisense Systems Inc.,* Torrance, California, has been awarded a maximum $9,199,649 firm-fixed-price contract for B-2 fire control systems. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.302-1. This is a two-year contract with no option periods. The performance completion date is July 15, 2028. Using military service is Air Force. Type of appropriation is fiscal 2026 Air Force operation and maintenance funds. The&lt;/small&gt;</description>
             <styleUrl>#1094</styleUrl>
             <Point id="1092">
-                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
+                <coordinates>-118.3413606,33.8371392,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1098">
-            <name>New Enterprise Stone &amp; Lime Co. Inc. — $9,038,323</name>
-            <description>&lt;b&gt;New Enterprise Stone &amp;amp; Lime Co. Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,038,323&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W911N2-27-D-A006&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;New Enterprise Stone &amp;amp; Lime Co. Inc., New Enterprise, Pennsylvania, was awarded a $9,038,323 firm-fixed-price, indefinite-quantity/indefinite-delivery, contract to provide quarry materials for road construction projects at Letterkenny Army Depot. Bids were solicited via the internet with eight received. Work locations and funding will be determined with each order, with an estimated completion date of Oct. 20, 2031. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity&lt;/small&gt;</description>
+            <name>General Electric Co. — $9,155,644</name>
+            <description>&lt;b&gt;General Electric Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,155,644&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; &lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;General Electric Co., Cincinnati, Ohio, has been awarded a maximum $9,155,644 firm-fixed-price, one-time-buy delivery order (SPRTA1-26-F-0543) issued against a five-year basic ordering agreement (SPEA1-24-G-0014) for F110aircraft turbine nozzles. This was a sole-source acquisition using justification 10 U.S. Code 3204 (a)(1), as stated in Federal Acquisition Regulation 6.103-1. This is a five-year contract with no option periods. The delivery order end date is Oct. 31, 2029. Using military servi&lt;/small&gt;</description>
             <styleUrl>#1099</styleUrl>
             <Point id="1097">
-                <coordinates>-78.4069593,40.1703568,0.0</coordinates>
+                <coordinates>-84.5127405,39.1012809,0.0</coordinates>
             </Point>
         </Placemark>
         <Placemark id="1103">
-            <name>Urschel Tool Co. — $9,000,000</name>
-            <description>&lt;b&gt;Urschel Tool Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,000,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-D-0086&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Urschel Tool Co.,* Cranston, Rhode Island, has been awarded a maximum $9,000,000 firm-fixed price, indefinite-delivery/indefinite-quantity contract for gold-finished end strap buckles and clips. This was a competitive acquisition with two responses received. This is a five-year contract with no option periods. The ordering period end date is Sept. 16, 2031. Using military service is Marine Corps. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The contracting act&lt;/small&gt;</description>
+            <name>New Enterprise Stone &amp; Lime Co. Inc. — $9,038,323</name>
+            <description>&lt;b&gt;New Enterprise Stone &amp;amp; Lime Co. Inc.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,038,323&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; W911N2-27-D-A006&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; ARMY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;New Enterprise Stone &amp;amp; Lime Co. Inc., New Enterprise, Pennsylvania, was awarded a $9,038,323 firm-fixed-price, indefinite-quantity/indefinite-delivery, contract to provide quarry materials for road construction projects at Letterkenny Army Depot. Bids were solicited via the internet with eight received. Work locations and funding will be determined with each order, with an estimated completion date of Oct. 20, 2031. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity&lt;/small&gt;</description>
             <styleUrl>#1104</styleUrl>
             <Point id="1102">
+                <coordinates>-78.4069593,40.1703568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1108">
+            <name>Urschel Tool Co. — $9,000,000</name>
+            <description>&lt;b&gt;Urschel Tool Co.&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Amount:&lt;/b&gt; $9,000,000&lt;br/&gt;&lt;b&gt;Contract:&lt;/b&gt; SPE1C1-26-D-0086&lt;br/&gt;&lt;b&gt;Branch:&lt;/b&gt; DEFENSE LOGISTICS AGENCY&lt;br/&gt;&lt;b&gt;Completion:&lt;/b&gt; &lt;br/&gt;&lt;hr/&gt;&lt;small&gt;Urschel Tool Co.,* Cranston, Rhode Island, has been awarded a maximum $9,000,000 firm-fixed price, indefinite-delivery/indefinite-quantity contract for gold-finished end strap buckles and clips. This was a competitive acquisition with two responses received. This is a five-year contract with no option periods. The ordering period end date is Sept. 16, 2031. Using military service is Marine Corps. Type of appropriation is fiscal 2026 through 2031 defense working capital funds. The contracting act&lt;/small&gt;</description>
+            <styleUrl>#1109</styleUrl>
+            <Point id="1107">
                 <coordinates>-71.4366813,41.779588,0.0</coordinates>
             </Point>
         </Placemark>
